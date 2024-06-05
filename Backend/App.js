@@ -6,12 +6,12 @@ var bodyParser = require("body-parser");
 app.use(cors());
 app.use(bodyParser.json());
 
-const port = "8081";
+const port = "8080";
 const host = "localhost";
 
 const { MongoClient } = require("mongodb");
 const url = "mongodb://127.0.0.1:27017";
-const dbName = "finalProj319";
+const dbName = "final";
 const client = new MongoClient(url);
 const db = client.db(dbName);
 
@@ -67,7 +67,7 @@ app.get("/food/category/:category", async (req, res) => {
 app.get("/food/:id", async (req, res) => {
   try {
     const foodId = parseInt(req.params.id);
-    const food = await db.collection("food").findOne({ id: foodId }); 
+    const food = await db.collection("food").findOne({ id: foodId });
 
     if (!food) {
       res.status(404).send("Food item not found");
@@ -88,7 +88,7 @@ app.get("/reviews/:id", async (req, res) => {
     const comments = await db
       .collection("reviews")
       .find({ foodId: foodId })
-      .toArray(); 
+      .toArray();
 
     if (!comments.length) {
       res.status(404).send("No comments found for the given food ID");
@@ -104,7 +104,7 @@ app.get("/reviews/:id", async (req, res) => {
 
 app.post("/contributions", async (req, res) => {
   try {
-    const { dishName, category, description, ingredients, imageUrl } = req.body; 
+    const { dishName, category, description, ingredients, imageUrl } = req.body;
 
     const ingredientsArray = ingredients
       .split(",")
@@ -140,28 +140,45 @@ app.post("/contributions", async (req, res) => {
 
 app.post("/reviews/:id", async (req, res) => {
   try {
-    const foodId = parseInt(req.params.id); 
-    const { reviewer, rating, comment } = req.body; 
+    const foodId = parseInt(req.params.id);
+    const { comment, rating, reviewer } = req.body;
+    const existingReview = await db.collection("reviews").findOne({ foodId: foodId, reviewer: reviewer });
 
-    const lastReview = await db
-      .collection("reviews")
-      .find()
-      .sort({ id: -1 })
-      .limit(1)
-      .toArray();
-    const newReviewId = lastReview.length === 0 ? 1 : lastReview[0].id + 1; 
+    if (existingReview) {
+      const putRequest = {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ comment: comment, rating: rating, reviewer: reviewer }),
+      };
 
-    const newReview = {
-      id: newReviewId,
-      foodId: foodId,
-      reviewer: reviewer,
-      rating: rating,
-      comment: comment,
-    };
+      const putResponse = await fetch(`http://localhost:8080/reviews/${foodId}`, putRequest);
+      const result = await putResponse.text();
 
-    await db.collection("reviews").insertOne(newReview);
+      res.status(200).send(result);
+    }
+    else {
+      const lastReview = await db
+        .collection("reviews")
+        .find()
+        .sort({ id: -1 })
+        .limit(1)
+        .toArray();
+      const newReviewId = lastReview.length === 0 ? 1 : lastReview[0].id + 1;
 
-    res.status(201).send("Review added successfully");
+      const newReview = {
+        id: newReviewId,
+        foodId: foodId,
+        reviewer: reviewer,
+        rating: rating,
+        comment: comment,
+      };
+
+      await db.collection("reviews").insertOne(newReview);
+
+      res.status(201).send("Review added successfully");
+    }
   } catch (error) {
     console.error("Error adding review:", error);
     res.status(500).send("Internal Server Error");
@@ -170,20 +187,23 @@ app.post("/reviews/:id", async (req, res) => {
 
 app.put("/reviews/:id", async (req, res) => {
   try {
-    const reviewId = parseInt(req.params.id); 
-    const { comment } = req.body; 
+    const foodId = parseInt(req.params.id);
+    const { comment, rating, reviewer } = req.body;
 
-    const result = await db
-      .collection("reviews")
-      .updateOne({ id: reviewId }, { $set: { comment: comment } });
+    // Update the review in the database
+    const updatedReview = await db.collection("reviews").findOneAndUpdate(
+      { foodId: foodId, reviewer: reviewer },
+      { $set: { comment: comment, rating: rating } },
+      { returnOriginal: false }
+    );
 
-    if (result.modifiedCount === 0) {
-      res.status(404).send("Review not found");
+    if (updatedReview.value) {
+      res.status(200).send("Review updated successfully");
     } else {
-      res.status(200).send("Review comment updated successfully");
+      res.status(404).send("Review not found");
     }
   } catch (error) {
-    console.error("Error updating review comment:", error);
+    console.error("Error updating review:", error);
     res.status(500).send("Internal Server Error");
   }
 });
