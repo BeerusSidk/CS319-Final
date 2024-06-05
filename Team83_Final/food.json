@@ -1,0 +1,1924 @@
+[{
+  "_id": {
+    "$oid": "662a9097808c5a677314a84a"
+  },
+  "id": 1,
+  "dishName": "Vietnamese Shrimp and Pork Wonton",
+  "description": "Vietnamese pork and shrimp wontons. Packed full of flavor, incredibly juicy, and quick to cook. Enjoy them various ways. This recipe makes about 50 wontons.",
+  "ingredients": [
+    "8 oz shrimp (peeled, deveined, and chopped)",
+    "8 oz ground pork",
+    "½ cup finely chopped jicama",
+    "1 green onion (thinly sliced)",
+    "2 tablespoons oyster sauce",
+    "1 teaspoon chicken bouillon powder",
+    "1 teaspoon sugar",
+    "¼ teaspoon ground black pepper",
+    "4 teaspoons sesame oil (divided)",
+    "14 oz square wonton wrappers"
+  ],
+  "how_to_cook": [
+    "Make the filling: Combine shrimp, ground pork, jicama, onion, oyster sauce, chicken bouillon powder, sugar, pepper and sesame oil (half) in a bowl and mix well.",
+    "Wrapping: Fill a small bowl with room temperature water for sealing. Add a teaspoon of filling on one half of the wrapper. The simplest way to wrap a wonton is by forming a triangle. Wet one side of a wonton wrapper with water, then fold it over to create a triangle shape. If you prefer something fancier, add some folds or pleats, and you will have a wonton resembling a cute pouch. Make sure to push out any air pockets, then pinch the seams firmly to seal them.",
+    "Cooking: Bring a pot of water to a boil. Add wontons (either fresh or frozen). Give it a quick stir to prevent the wontons from sticking together then cook until they all float. Allow them to cook for an additional minute to ensure filling is cooked all the way through. Drain and rinse with water. Toss with remaining sesame oil (2 teaspoons) to prevent sticking. You can also steam, pan-fry or deep-fry the wontons.",
+    "Storage: You can refrigerate or freeze uncooked wontons. Since store-bought wonton wrappers are heavily floured, they won't stick if they overlap. For added assurance, dust them more with all-purpose flour or cornstarch. In an airtight container, arrange them in a single layer and cover each layer with plastic wrap to prevent sticking. They can be stored in the fridge for up to 3 days or in the freezer for up to 4 months. Allow them to defrost before separating to prevent tearing, then proceed to cook as normal",
+    "Boil and serve in a clear noodle soup, such as Vietnamese Egg Noodle Soup (Mi Hoanh Thanh) or serve them on their own with a tangy and spicy soy vinegar sauce."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1539194748250-M6ONPTSCM6GQNSXJS94F/wonton.jpg?format=2500w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9099808c5a677314a84b"
+  },
+  "id": 2,
+  "dishName": "Vietnamese Fried Radish Rice Cakes",
+  "description": "A popular Vietnamese street food and dim sum restaurant item, these little savory rice cakes are pan-fried to crispy perfection and served with a sweet and savory soy dipping sauce.",
+  "ingredients": [
+    "20 grams dried shrimp",
+    "1 Chinese sausage",
+    "1 tablespoon vegetable oil",
+    "300 grams grated daikon",
+    "100 grams rice flour",
+    "10 grams tapioca starch",
+    "300 mL water (room temperature)",
+    "1 teaspoon ground white pepper",
+    "½ teaspoon granulated cane sugar",
+    "½ teaspoon MSG (optional)",
+    "½ teaspoon salt",
+    "Soy dipping sauce",
+    "Fish sauce dipping sauce",
+    "Thinly sliced green onions",
+    "Pickled daikon and carrot"
+  ],
+  "how_to_cook": [
+    "Soak the dried shrimp in hot water for 10 minutes. Drain and rinse. Chop the dried shrimp and Chinese sausage into small pieces.",
+    "Add oil (1 tablespoon) to the skillet and heat on medium-high. Add dried shrimp and sauté for about 30 seconds. Add Chinese sausage and sauté for one minute or until you get nice caramelization on the edges of the shrimp and sausage. Transfer the mixture into another bowl and set aside.",
+    "Add grated daikon and a splash of water (about 2 tablespoons) to a skillet. Sauté until daikon softens on medium-low heat (about 10 minutes). Stir occasionally to prevent browning. Remove daikon. Once cool enough to handle, squeeze out excess moisture and set aside.",
+    "Mix together the batter ingredient in a medium bowl until you get a paste-like consistency. Set aside.",
+    "Combine the batter, soften daikon, and dried shrimp/Chinese sausage mixture back into the skillet. Pan fry for about 5 minutes to cook off the raw flour taste.",
+    "Transfer mixture to an oiled pan. I'm using a 10\"x5\" loaf pan. Place the pan into a steamer with plenty of water and steam over a medium simmer for 45 minutes.",
+    "Carefully remove the pan from the steamer and let your rice cake set for about 30 minutes. Once cooled, loosen the sides with a knife and turn it upside down onto a cutting board and slice ½-inch thick square or rectangular pieces.",
+    "To enjoy, pan-fry the radish cakes by adding a couple tablespoons oil to skillet over medium heat. Fry the cakes on both sides until golden and crispy. If serving with eggs, heat a bit of oil on the other side of the skillet and crack your desired amount of eggs into the oil. Pan fry eggs however you choose. I simply like it over-easy with no additional seasonings.",
+    "Transfer the eggs and fried rice cakes to a plate. Garnish green onions (optional) and serve with your choice of soy or fish sauce dipping sauce, and a side of pickled daikon and carrot (optional)."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://i.imgur.com/iKymZnS.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a909a808c5a677314a84c"
+  },
+  "id": 3,
+  "dishName": "Vietnamese Steamed Rice Noodle Sheets/Rolls",
+  "description": "Soft, delicate, and full of flavor, bánh ướt is a Vietnamese street food that you won't want to miss. These thin rice sheets are steamed to perfection and then served with various toppings, such as cucumbers, Vietnamese ham, beansprouts, and a flavorful dipping sauce. This recipe makes 15 rolls/rice sheets.",
+  "ingredients": [
+    "1 cup rice flour",
+    "½ cup tapioca starch",
+    "½ cup potato starch (or same amount of tapioca starch)",
+    "4 cups water (room temperature)",
+    "½ teaspoon sea salt",
+    "Thinly sliced lettuce",
+    "Steamed or blanched bean sprouts",
+    "Vietnamese ham (Cha Lua; slice thin)",
+    "Cucumbers (cut into thin strips)",
+    "Fried shallots and shallot oil",
+    "Optional herbs (Thai basil, mint, and Vietnamese coriander rau ram)",
+    "Vietnamese sweet chili dipping sauce (Nuoc Cham)"
+  ],
+  "how_to_cook": [
+    "Make the batter. Combine rice flour, tapioca starch, potato starch, salt and water. Mix together until flour and starches have completely dissolved. Let it sit for 30 minutes to bloom.",
+    "Prepare a tray by greasing with shallot oil. Set aside. This will be used to place the finished rice rolls.",
+    "Fill a large pot/skillet or a large steamer with about 2 inches of water. If using a large pot/skillet, place a shallow bowl or plate at the bottom of the pot to keep the baking pan from sitting directly in the water. Place the baking pan inside. I'm using a 9-inch round nonstick cake pan. Bring the water to a boil over medium-high heat.",
+    "Pour about ⅓ cup of batter onto the baking pan and swirl it to form a thin even layer. Cover the pot with a lid and steam for about 2 minutes, or until the batter is translucent and cooked through.",
+    "Carefully remove the baking pan with tongs or mittens. Use a wooden chopstick to trace the outline of the rice sheet along the edges to loosen them. The wooden chopstick prevents sticking. Use the chopstick to nudge one side of the rice sheet so you can lift it off. I find it too be much easier if you roll it off rather than trying to lift the whole sheet. If you find it too fragile, allow the rice sheet to cool for about 30 seconds to 1 minute.",
+    "Transfer the Banh Uot to the oiled tray and brush the sheet or rolls with more shallot oil to prevent sticking.",
+    "Repeat the above steps until batter runs out. Once you get the hang of it, you can get multiple trays going at once.",
+    "Assemble 4-5 rolls or sheets per person. Top with desired vegetables and serve with a small bowl of sauce on the side for pouring or dipping and enjoy."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://i.imgur.com/UfgK9xt.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a909b808c5a677314a84d"
+  },
+  "id": 4,
+  "dishName": "Vietnamese Sizzling Crispy and Savory Crepes (Bánh Xèo)",
+  "description": "Make your own Banh Xeo at home! This Vietnamese sizzling crepe recipe is easy to follow and yields 6-8 large crepes. Use premix flour or make the batter from scratch.",
+  "ingredients": [
+    "1 packet Hương Xưa Bánh Xèo flour premix (500 grams)",
+    "4-¼ cups water (room temperature)",
+    "170 grams rice flour (about 1-⅓ cups)",
+    "1 tablespoon corn starch",
+    "1 teaspoon salt",
+    "1 teaspoon turmeric powder",
+    "1-½ cups water (room temperature)",
+    "7 fl oz coconut milk (a little more than ¾ cup)",
+    "1 cup sliced green onions (about 4 stalks)",
+    "1 lb pork belly",
+    "1 lb shrimp (size 31/35, devein, peel optional)",
+    "2 teaspoons chicken or mushroom bouillon powder (divided)",
+    "Vegetable oil",
+    "3 garlic cloves (peel and mince)",
+    "1 small shallot (peel and mince)",
+    "¾ cup dried split mung beans",
+    "1 teaspoon salt",
+    "Lettuce",
+    "Vietnamese herbs",
+    "1 lb fresh bean sprouts",
+    "1 small yellow onion (slice into thin wedges)",
+    "Vietnamese dipping sauce (Nuoc Mam Cham)",
+    "Vietnamese pickled daikon and carrot (Do Chua)"
+  ],
+  "how_to_cook": [
+    "Choose to make the batter from premix flour or from scratch. In a large mixing bowl, whisk together the batter ingredients. Set it aside to rest for at least 30 minutes for the batter to bloom. The longer the batter rests, the crispier it will be when fried.",
+    "Optional: To clean the pork and shrimp, rub them with coarse sea salt (about 1 tablespoon). Rinse under cold running water and drain dry. Parboil the pork belly for about 10 minutes to get rid of any foul smell and for easier slicing. Once cooled, slice the pork belly into thin bite-sized pieces, each with a layer of skin, fat, and meat.",
+    "In a large skillet, heat vegetable oil (about 1 tablespoon) on medium-high. Add half of the minced garlic and shallot. Sauté until fragrant. Add pork belly. Season with 1 teaspoon bouillon powder or ½ teaspoon sea salt. Panfry until mostly cooked (about 5 minutes). Remove from skillet and set aside.",
+    "Repeat the step above for the shrimp. Add oil, garlic and shallot to skillet. Sauté until fragrant. Add shrimp. Season with 1 teaspoon bouillon powder or ½ teaspoon sea salt. Lightly pan fry to get the aroma onto the shrimp. No need to cook all the way through. Shrimp will finish cooking when making crepes. Set aside.",
+    "Rinse the dried mung beans in plenty of water until the water runs clear. Transfer the mung beans to a small pot and add enough water to cover the beans by 2 inches. Bring the water to a boil over medium-high heat, then reduce the heat to low and simmer for 20 minutes uncovered, or until the beans are soft but still retain their shape. Stir half way through to prevent mung beans from sticking to the bottom of the pot. Drain and mix with 1 teaspoon sea salt. Set aside.",
+    "To make a crepe, you will need a large (12-inch) nonstick skillet or a well seasoned wok with a lid. Coat skillet with a thin layer of vegetable oil. Add a few slices of onions and pork belly. Pan fry for about one minute. Add shrimp (I added four for each crepe). Ladle in about ¾ cup of batter, then immediately pick up pan and swirl batter around to cover the bottom and sides of skillet until batter is no longer runny.",
+    "Add mung beans and bean sprouts. Cover skillet with a lid and cook for 3 minutes on medium-high.",
+    "Remove lid. The edges of the crepe should have pulled away from the sides of the skillet. Add a teaspoon of oil to the underside of the crepe. You can use a squeeze bottle or spoon to spread the oil evenly. Continue to cook for about 3 more minutes, uncovered, until the bottom crisps up.",
+    "Use a large spatula to fold the pancake in half. Slide pancake onto a serving platter. Repeat with the remaining batter and ingredients.",
+    "Serve with lettuce and your favorite Vietnamese herbs, pickled daikon/carrots, and a side of Vietnamese fish sauce dipping sauce (Nuoc Mam Cham)."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://i.imgur.com/v7urd4L.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a909c808c5a677314a84e"
+  },
+  "id": 5,
+  "dishName": "Vietnamese Steamed Rice Rolls (Bánh Cuốn)",
+  "description": "Vietnamese steamed rice rolls filled with a delicious pork and mushroom mixture and served with sweet chili dipping sauce. This recipe doesn't require a traditional steamer basket - all you need is a good nonstick frying pan. Also included are instructions for both homemade batter and store-bought flour premix.",
+  "ingredients": [
+    "½ cup dried woodear mushroom",
+    "½ lb ground pork",
+    "½ teaspoon chicken bouillon powder",
+    "½ teaspoon sea salt",
+    "½ teaspoon granulated sugar",
+    "¼ teaspoon ground black pepper",
+    "2 tablespoons vegetable oil or shallot oil (preferred)",
+    "3 garlic cloves (peel and mince)",
+    "1 small onion (peel and dice)",
+    "1 12-oz package Bánh Cuốn flour premix",
+    "4 cups cold water",
+    "1 tablespoon vegetable oil or shallot oil (preferred)",
+    "1 cup rice flour",
+    "1 cup tapioca starch",
+    "½ teaspoon sea salt",
+    "1 tablespoon vegetable oil or shallot oil (preferred)",
+    "4 cups cold water",
+    "Thinly sliced lettuce",
+    "Steamed or blanched bean sprouts",
+    "Vietnamese ham (Chả Lụa; slice thin)",
+    "English cucumbers (cut into thin strips)",
+    "Fried shallots",
+    "Vietnamese sweet chili dipping sauce (Nước Chấm)"
+  ],
+  "how_to_cook": [
+    "In a medium bowl, soak dried woodear mushrooms in warm water until soft (about 30 minutes). Drain and rinse well. Squeeze out excess water then chop finely.",
+    "Transfer the mushroom to a large bowl. To the same bowl, add ground pork, bouillon powder, salt, sugar, and ground black pepper. Mix until combined.",
+    "Heat up vegetable oil in a large pan over medium-high heat. Add the garlic and onion. Saute until fragrant (about one minute). Add the ground pork and mushroom mixture. Use a wooden spoon to break up any chunks of ground pork. Continue cooking until the pork is cooked through (about 5-8 minutes).",
+    "For the batter, add all the ingredients for the batter to a medium bowl and stir until dissolved. Set aside to bloom for at least 30 minutes.",
+    "You will need a 10-inch nonstick skillet with a lid to make the steamed rice rolls. Start by greasing the skillet with vegetable or shallot oil. I like to use a paper towel to rub the oil into the non-stick skillet until none is visible. Heat on medium-high. Pour a small amount of batter (about ⅓ cup) and immediately lift the pan and swirl the batter around until it covers the bottom of the skillet. You want the batter to be as thin as possible. Cover the pan with a lid and let it steam for about 30 seconds.",
+    "Remove lid. Add a thin layer of the pork mixture to toward one end of the rice sheet and roll it up using a spatula. Alternatively, if the rice sheet slides off easily, completely flip it onto an oiled sheet pan and make the rolls off the stovetop.",
+    "Repeat the process until all the batter and filling are gone.",
+    "Serve the rice rolls with lettuce, bean sprouts, and cucumbers. Top with fried shallots, Vietnamese ham, and serve the sauce on the side. To eat, drizzle the sauce on top, give it a good mix and enjoy."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://i.imgur.com/l1IG1nT.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a909d808c5a677314a84f"
+  },
+  "id": 6,
+  "dishName": "Vietnamese Savory Mini Pancakes (Bánh Khọt)",
+  "description": "Banh Khot is the bite-size and simpler version of Banh Xeo. Both are wrapped in leafy greens and dipped in a sweet chili sauce. Crispy on the outside and fluffy on the inside, this is a delicious appetizer that's not only fun to make but also fun to say.",
+  "ingredients": [
+    "1 cup rice flour",
+    "1 tablespoon corn starch",
+    "1 cup water",
+    "200 mL coconut milk",
+    "½ teaspoon turmeric powder",
+    "½ teaspoon sea salt",
+    "14 large shrimp (peeled and deveined)",
+    "¼ teaspoon sea salt",
+    "⅛ teaspoon (pinch) ground black pepper",
+    "2 green onions (thinly sliced)",
+    "¼ cup dried salted shrimp (optional)",
+    "Assorted greens (lettuce, perilla, sorrell, mint, etc)",
+    "Vegetable or shallot oil from making fried shallots",
+    "Vietnamese sweet chili dipping sauce"
+  ],
+  "how_to_cook": [
+    "Whisk together all the batter ingredients. Set it aside to \"bloom\" for at least 20 minutes, but the longer, the better.",
+    "In a small bowl, marinate shrimp with salt and pepper. Set aside. If using dried salted shrimp, soak in hot water for 5 minutes, rinse, then drain dry. Dry toast in a frying pan until fragrant then finely chop in a food processor or by hand. Set aside.",
+    "Heat the banh khot or aebleskiver pan on medium-high. Add a little oil to each well. Fill with batter to the rim. It's also ok to overflow the well so it spills out. This creates additional crispy edges. Sprinkle green onions, and dried shrimp if using. Cover with a lid and cook for about 6-8 minutes on medium-low. Low and slow is key.",
+    "Remove the lid. Add shrimp and top each with more green onions. Drizzle more oil on top of the green onions (this makes \"scallion oil\") and around each rim to crisp up the edges. Cover and cook until shrimp is cooked through (about one minute). Remove the lid and cook for about 2 more minutes to your desired crispiness.",
+    "Use a sharp metal spoon to remove the banh khot. Scrape the outside edges first. It should detach easily and scoop out. Serve with your favorite leafy greens and sweet chili sauce."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://i.imgur.com/Cpw8isZ.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a909f808c5a677314a850"
+  },
+  "id": 7,
+  "dishName": "Vietnamese Jicama, Carrot, Egg and Spring Rolls",
+  "description": "A fresh spring roll made with a rice paper wrapper, filled with thinly sliced eggs, Chinese sausage, jicama, carrots, dried shrimp, and Thai basil leaves.",
+  "ingredients": [
+    "½ cup dried shrimp",
+    "1 large jicama",
+    "1 medium carrot",
+    "4 large shallots",
+    "4 Chinese sausages",
+    "5 whole eggs (beaten)",
+    "½ teaspoon sea salt",
+    "1 small bunch Thai basil",
+    "1 pack dried rice paper wrapper",
+    "3 tablespoons vegetable oil (divided)",
+    "Vietnamese peanut sauce"
+  ],
+  "how_to_cook": [
+    "Prep the ingredients and set them aside. Soak the dried shrimp in hot water for 10 minutes, or until softened, then drain. Peel the jicama and slice it into matchsticks. Peel the carrot and slice at a diagonal for more surface area then slice into matchsticks. Peel and thinly slice the shallots.",
+    "Add water to a large nonstick skillet and boil the Chinese sausage for about 5 minutes. Remove from water and once cooled, thinly slice at a diagonal and set aside. Discard water from the skillet and return it to the stove.",
+    "Add about 1 tablespoon of vegetable oil to the skillet. Heat on high. Add sliced shallots and saute until fragrant (about 20 seconds). Add dried shrimp. Pan fry for another 20 seconds. Add sliced jicama and carrots. Stir evenly and cook for about 15 minutes or until limp. Season with salt then transfer the mixture into a bowl and set aside. Clear the skillet and return to stove.",
+    "Cook the eggs: Add about a tablespoon of vegetable oil to the empty skillet and heat on medium-high. Use a pastry brush or tilt the skillet to spread the oil evenly all over the skillet, including the slides. Add half of the beaten eggs. Swirl it around to get a thin layer. Cook for about 30 seconds or until it is no longer runny. Slide the thin sheet of eggs onto a plate and set it aside. Repeat with another tablespoon of vegetable oil and the remaining half of the beaten eggs. Place the two egg sheets on top of each other. Roll them up then thinly slice them into ribbons. Set aside.",
+    "Assemble: Wet your rice paper quickly water then transfer it to a large plate or a clean flat surface. Place a few basil leaves towards the bottom of the moistened rice paper. Next, add the jicama, carrot, and shrimp mixture. Add a few ribbons of egg then a few slices of Chinese sausage. Start rolling everything up from the bottom, tucking and rolling until you get halfway up on the rice paper. Fold in the sides then continue to roll up to seal. See illustrations above.",
+    "Serve with peanut sauce and enjoy."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://i.imgur.com/5zS98zh.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a90a0808c5a677314a851"
+  },
+  "id": 8,
+  "dishName": "Vietnamese Steamed Pork Bun Recipe (Bánh Bao)",
+  "description": "Fluffy steamed buns made with ground pork, quail eggs, woodear mushroom, onions, peas, carrots, and Chinese sausage, Bánh Bao is my favorite for meals on the go. Made with prepackaged flour, this recipe is a great time saver. This recipe makes 12 medium baos.",
+  "ingredients": [
+    "12 grams dried woodear mushroom",
+    "12 oz ground pork",
+    "1 teaspoon granulated cane sugar",
+    "¼ teaspoon ground black pepper",
+    "2 tablespoons oyster sauce",
+    "1 teaspoon sesame oil (optional)",
+    "2 green onions (thinly sliced)",
+    "½ cup finely diced yellow onion",
+    "½ cup frozen green peas and carrots",
+    "2 oz Chinese sausage (finely diced)",
+    "12 hard-boiled quail eggs",
+    "1 bag TL Bon Con Voi Corp brand (four elephants) banh bao flour mix (available in Asian grocery stores)",
+    "1 cup whole milk",
+    "½ cup granulated cane sugar",
+    "1 tablespoon vegetable oil",
+    "1 tablespoon white vinegar (optional)",
+    "12 cupcake liners"
+  ],
+  "how_to_cook": [
+    "Prepare the mushroom: In a medium bowl, hydrate dried wood ear mushroom with 2 cups hot water. Get started on the dough while waiting.",
+    "Make the dough: TL Bon Con Voi Corp brand banh bao flour mix is my go-to banh bao flour mix that never fails. If you are using other brands, follow their package instructions instead. Add flour into the mixing bowl of a stand mixer. Set aside 1 tablespoon of flour for dusting. Mix milk and sugar in a small bowl then add the mixture to the flour. Use a hook attachment and beat on the lowest setting until the dough comes mostly together. Add oil and continue beating until the dough pulls cleanly away from the sides of the bowl. Cover and set aside for 30 minutes. See the notes section below if the dough becomes too sticky.",
+    "Make the filling: Back to the wood ear mushroom. They should be soft by now. Drain, rinse well, squeeze out excess water, then mince finely. In a large bowl, mix together ground pork, sugar, black pepper, oyster sauce, and sesame oil. You may test the flavor of the marinated meat by quickly cooking a small piece in the microwave and adjust to taste if needed. Mix in wood ear mushroom, green onions, yellow onion, frozen peas/carrots, and Chinese sausage until combined.",
+    "Make the filling balls: Divide the ground pork mixture into 12 equal balls. Make an indentation in the middle of each filling ball. Insert a hard-boiled quail egg in the middle. Using the palm of your hands, work the pork filling around the egg to encase it.",
+    "Prepare the steamer: Using a large steamer, fill the basin halfway with water. Add vinegar and bring it to a boil. The acidity of the vinegar will help to keep the baos white.",
+    "Precook the filling balls: Steam the ground pork balls directly on the trays for 5 minutes. This will remove most of the moisture to prevent a soggy bao. Remove the pork filling balls from the steamer and set them aside.",
+    "Wrapping: Dough should be ready for wrapping by now. Divide the dough into 12 equal pieces. Dust your work surface and/or hands with the reserved flour to prevent sticking, particularly the bottom of the wrapper. If you don't have enough reserved flour, use a bit of self-rising flour (recommended) or all-purpose flour. Roll out the dough into a flat circle, about 5\" in diameter, using a small rolling pin. Place the pork filling ball in the middle and pull up the dough to wrap the filling ball. Make overlapping folds (pleats) at the top and pinch to seal. Place the assembled baos onto cupcake liners. Set them aside, covered.",
+    "Steaming: Transfer assembled baos onto the steamer trays, leaving 1½\" room in between for expansion. Steam for 10-12 minutes or until the top of the baos burst open. If you are doing two batches, make sure to wipe down the inside of the lid after the first batch to prevent water droplets from dripping onto the baos.",
+    "Serving: Enjoy them warm from the steamer. For leftovers, allow them to cool completely then individually wrap with plastic wrap and store them in the fridge for up to 3 days. You can also store them in the freezer for up to 8 months. When ready to serve, pop the frozen baos into the microwave or steamer to reheat."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/ff773946-1ffb-4d0c-985a-923373d59fef/2023_01_10EOS+M505276.jpg?format=1000w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a90a1808c5a677314a852"
+  },
+  "id": 9,
+  "dishName": "Crispy Fried Spring Rolls with Rice Paper Wrapper",
+  "description": "If you have tried to make fried spring rolls (sometimes called egg rolls) with rice paper wrapper and never had much luck, this is the recipe for you. Perfectly fried spring rolls with traditional ground pork, vermicelli noodles, and minced woodear mushroom, these fried spring rolls are a guaranteed crowd-pleaser. And they are made with rice paper! Just like in Vietnam!",
+  "ingredients": [
+    "1 lb ground pork",
+    "½ oz dried wood ear mushrooms",
+    "2 oz dried bean thread vermicelli/cellophane noodles",
+    "1 green onion (slice thinly)",
+    "1 large shallot (peel and dice finely)",
+    "1 teaspoon granulated sugar",
+    "¼ teaspoon ground black pepper",
+    "2 teaspoons sesame oil",
+    "1 teaspoon sea salt",
+    "2 tablespoons oyster sauce",
+    "1 teaspoon mushroom or chicken bouillon powder (optional)",
+    "1 package netted rice paper wrapper",
+    "Vegetable oil for frying",
+    "Homemade Vietnamese Fish sauce dipping sauce (Nuoc Mam Cham) or a store-bought sweet chili sauce"
+  ],
+  "how_to_cook": [
+    "In a medium bowl, rehydrate dried wood ear mushroom and dried vermicelli noodles in warm water for 15 minutes. Remove from water and rinse. Mince finely and set aside.",
+    "In a medium-size bowl, mix together ground pork, minced wood ear mushroom, minced vermicelli noodles, green onion, shallot, sugar, black pepper, sesame oil, salt, oyster sauce, and mushroom bouillon powder. Set aside.",
+    "Quickly submerge a netted rice paper in a shallow water bowl so that top and bottom are wet then immediately transfer to a large plate or clean flat surface.",
+    "Add 2 tablespoons of filling towards the bottom end of the rice paper.",
+    "Roll the rice paper up to cover the filling until you reach the middle. Tuck in both sides. Continue to roll up to seal.",
+    "In a wok or tall skillet, heat vegetable oil to 325°F or when a small piece of rice paper wrapper dropped in oil starts to sizzle gently. Oil can be warmer than needed, as you can always increase the temperature without ruining the spring roll. Oil too hot will produce a burnt crust and an uncooked interior. Not good.",
+    "Once you get the right temperature, fry in small batches for 4-5 minutes or until spring rolls are golden brown. Transfer spring rolls onto a wire rack or a paper-towel-lined plate to absorb excess oil.",
+    "It's best to serve the fried spring rolls immediately after frying for the crispy crust. Serve with a traditional homemade Vietnamese Fish sauce dipping sauce (Nuoc Mam Cham) or you can get your favorite sweet chili sauce from the store.",
+    "Serve these spring rolls on their own or, my favorite, with a platter of fresh leafy lettuce for wrapping and pickled daikon and carrots (Do Chua). You can also serve them as a component of a noodle dish (Bun Thit Nuong)."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://i.imgur.com/V50rdYS.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a90a2808c5a677314a853"
+  },
+  "id": 10,
+  "dishName": "Vietnamese Spring Rolls with Pork and Shrimp",
+  "description": "A refreshing appetizer made up of shrimp, pork, vermicelli noodles, and an assortment of vegetables rolled in rice paper. They are served at room temperature with a creamy peanut sauce.",
+  "ingredients": [
+    "2 lbs shrimp (peeled and deveined)",
+    "1 lb pork belly (substitute with pork shoulder for a leaner version)",
+    "1 14-oz bag thin rice vermicelli",
+    "Assortment of vegetables and herb (lettuce, bean sprouts, sorrel, perilla, garlic chives, mint, etc.)",
+    "Vietnamese peanut dipping sauce",
+    "1 package 12-oz dried rice paper"
+  ],
+  "how_to_cook": [
+    "To a medium pot, add water. Bring the pot to a boil. Add shrimp and cook until they turn color (about 3 minutes). Remove from pot and slice in half along the backside. Set aside.",
+    "Read notes below if pork belly has an odor. Add pork belly to the same pot that was was for shrimp. Cook for 30 minutes or until chopstick-tender. Remove pork, rinse, and pat dry. Once cooled, slice thinly and set aside.",
+    "Cook rice noodles per package instructions. Drain, rinse with cold water, and set aside.",
+    "Assemble the rolls: Wet the rice paper quickly and shake off excess water. The rice paper will only take 10 seconds to become pliable. On bottom end of the rice paper, add a bed of noodles, vegetables of your choice, and a few slices of pork belly slices. Add 2-3 shrimp, facing down, on the top half of the rice paper. Fold in the sides. Roll everything up from the bottom, tightly tucking and rolling to seal.",
+    "Serve with Vietnamese peanut sauce."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://i.imgur.com/tfaS2ki.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a90de808c5a677314a854"
+  },
+  "id": 12,
+  "dishName": "Vietnamese Pork Sausage Spring Rolls",
+  "description": "A rice paper roll filled with Vietnamese pork sausage, lettuce, other assorted Vietnamese herbs, and a crunchy fried egg wrapper. Served with its signature orange dipping sauce on the side, it's the ultimate street food.",
+  "ingredients": [
+    "Homemade or store-bought Vietnamese pork sausage (Nem Nuong)",
+    "Lettuce",
+    "Cucumbers (slice into matchsticks)",
+    "Other Vietnamese herbs and vegetables (sorrel, perilla, garlic chives, peppermint and spearmint)",
+    "1 package rice paper",
+    "1 package eggroll/lumpia wrappers",
+    "8 oz pork fat (cut into tiny chunks)",
+    "10 large prawn heads",
+    "2 tablespoons minced shallots",
+    "1 tablespoon minced garlic",
+    "2-½ cups water",
+    "1 tablespoon granulated sugar",
+    "1 teaspoon chicken bouillon powder",
+    "1 teaspoon fish sauce",
+    "2 tablespoons sweet rice powder",
+    "10 oz salted dried shrimp (rinse, chop finely, dry toast)",
+    "1 tablespoon smooth sweetened peanut butter"
+  ],
+  "how_to_cook": [
+    "Make either homemade Vietnamese pork sausage (Nem Nuong) or buy the premade one, available in the frozen aisle of your Asian supermarket. You can grill or bake it at 350°F for a total of 20 minutes, flipping halfway through. Slice into strips then set aside.",
+    "Cut into eggroll/lumpia wrappers into small squares, roll and seal with a beaten egg then deep-fry until crunchy). Set aside.",
+    "Make the sauce: In a medium-size skillet, add pork fat and heat on low to render oil. Add prawn heads, squeezing heads with utensil to release head fat and its orange color. Add minced shallots and garlic. Saute until fragrant. Add water and cook on a low simmer for 10 minutes. Strain and discard solids. Return liquid to a clean skillet. Season to taste with sugar, bouillon powder, and fish sauce. Whisk in sweet rice powder quickly to prevent clumps. Add toasted dried shrimp and peanut butter.",
+    "To assemble: wet a sheet of rice paper lightly and lay it on a flat surface. Fold in one side for a sharp edge. On the sharp edge side, add desired vegetables, leaving the leafy lettuce dangling on the side for a beautiful presentation, fried egg roll wrapper, and a slice of Vietnamese pork sausage. Roll everything up from the bottom to the middle of the rice paper. Tuck in the other side and continue to roll up to seal. Visual instructions above."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1569626481609-7Z4AZMMFRLRFZ8DJC8DB/118.jpg?format=750w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a90e8808c5a677314a855"
+  },
+  "id": 15,
+  "dishName": "Vietnamese Shrimp and Pork Egg Rolls",
+  "description": "Crispy little packets of savoriness, these are one of my favorite dishes to make during the holidays. These appetizers are a combination of traditional Vietnamese egg rolls and whole shrimp. Carry a basket of these bad boys to a dinner party and you’ll be the life of the party… or at least until they run out.",
+  "ingredients": [
+    "2 lbs shrimp (size 21/25)",
+    "2 tablespoons oyster sauce",
+    "1 teaspoon granulated sugar",
+    "8 oz ground pork",
+    "1 green onion (slice thin)",
+    "1 tablespoon oyster sauce",
+    "½ teaspoon granulated sugar",
+    "1 teaspoon sesame oil",
+    "Pinch ground black pepper",
+    "1 egg (beaten)",
+    "1 package egg roll / lumpia / spring roll wrapper (1 lb)",
+    "Oil for deep frying",
+    "Bottled sweet chili dipping sauce or make your own"
+  ],
+  "how_to_cook": [
+    "Peel and devein the shrimp. Leave the tail for a \"handle\" for a more beautiful presentation.",
+    "Set aside 10 shrimp (no tail) for the pork mixture.",
+    "In a small bowl, season shrimp with tails with oyster sauce and sugar.",
+    "Mince the reserved 10 shrimp into a paste and combine with ground pork in a bowl.",
+    "Season the ground pork mixture with green onion, oyster sauce, sugar, sesame oil and black pepper.",
+    "Assemble the egg rolls. See step-by-step picture above.",
+    "In a wok or large skillet, add about 2 inches of oil and heat to 325°F.",
+    "Add as many egg rolls that can fit without overcrowding.",
+    "Deep fry for about 4 minutes per batch. Transfer egg rolls to a wire rack or plate lined with paper towels to drain off excess oil.",
+    "Serve immediately for best results with a sweet chili dipping sauce."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1539721029349-J8S7ODSTKM45HG5M7QCD/Vietnamese-shrimp-pork-egg-rolls-cha-gio-tom.jpg?format=1000w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9116808c5a677314a856"
+  },
+  "id": 21,
+  "dishName": "Vietnamese Shrimp Egg Rolls (Chả Giò Cuốn Tôm)",
+  "description": "A super simple Vietnamese appetizer. Whole shrimp, simply marinated then rolled in egg wrappers and deep-fried. It's fancy. It's delicious, and a guaranteed crowd-pleaser.",
+  "ingredients": [
+    "1 lb headless shrimp (peel, devein and leave tails on to make a \"handle\")",
+    "1 tablespoon oyster sauce",
+    "½ teaspoon granulated sugar",
+    "1 packet spring roll/lumpia /egg roll wrappers (I typically use Menlo brand)",
+    "1 egg",
+    "Vegetable oil for frying",
+    "Bottled sweet chili dipping sauce or make your own"
+  ],
+  "how_to_cook": [
+    "In a medium-sized bowl, add the shrimp, oyster sauce and sugar. Toss to combine.",
+    "In a small bowl, beat the egg with a fork and set aside. If you don't have an egg, you can also mix 1 tablespoon tapioca starch with 2 tablespoons cold water.",
+    "See the instructional picture above for reference. Cut the stack of egg roll wrappers in half at a diagonal. Pull apart slowly to separate into individual sheets. Place a shrimp on the wrapper with the tail sticking out. Gently roll up. At the midway point, pull the wrapper corner down to cover the shrimp. Continue rolling up. Brush egg wash (or tapioca starch/water mixture) on the top corner to seal.",
+    "Deep fry the shrimp egg rolls at 375°F without overcrowding (about 2 minutes per batch or until golden brown). Transfer fried shrimp egg rolls from the oil to a wire rack or a plate lined with paper towels to absorb the excess oil. Serve immediately with a side of sweet chili dipping sauce for best results."
+  ],
+  "category": "appetizer",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1504197633404-UR7KVS6GZN1JQNNH7ET8/fried+shrimp+in+egg+roll+wrappers.jpg?format=750w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a911b808c5a677314a857"
+  },
+  "id": 24,
+  "dishName": "Savory Sticky Rice with Chinese Sausage (Xôi Mặn)",
+  "description": "A yummy dish of warm, fragrant sticky rice infused with the savory goodness of Chinese sausage, dried shrimp, and dried shiitake mushrooms. Top with crunchy fried shallots for texture and scallion oil for an aromatic finish.",
+  "ingredients": [
+    "3 cups sweet rice",
+    "6 oz Chinese sausage (about 3 sausages, thinly sliced)",
+    "10 dried shiitake mushrooms",
+    "⅓ cup dried shrimp",
+    "1 teaspoon salt",
+    "1 tablespoon granulated sugar",
+    "3 tablespoons light soy sauce",
+    "2 scallions/green onions (thinly sliced)",
+    "1 tablespoon plus 1 teaspoon vegetable oil"
+  ],
+  "how_to_cook": [
+    "Soak the rice for 4 hours. Preferably, do this overnight to avoid waiting. After soaking, drain the rice through a colander, rinse a few times until water runs clear then set aside.",
+    "Soak the dried shrimp and dried shiitake mushrooms in hot water for 20 minutes to rehydrate and soften. Drain both and set aside. Slice the mushrooms.",
+    "Heat 1 tablespoon oil in a wok over medium-high. Add dried shrimp, Chinese sausage and black/shiitake mushrooms. Stir fry for about 5 minutes. Add soy sauce and sugar. Toss until evenly seasoned.",
+    "Make sure your steamer doesn’t have any large holes that the rice grains will fall through. If it does, cover the bottom with a cheesecloth. Add water to the steamer and bring the water to a boil and then lower to a simmer.",
+    "Toss the rinsed rice with salt until evenly combined then transfer the rice to the steamer. Steam with a covered lid for 20 minutes.",
+    "Add the stir fried Chinese sausage, mushroom and dried shrimp mixture to the rice. Toss until evenly combined then steam for 15 more minutes, covered, or until rice is the texture of your liking.",
+    "To make the scallion oil quickly, slice the green onions/scallions into thin concentric circles then add them to a microwave safe bowl. Mix with 1 teaspoon vegetable oil, then heat in the microwave for 30 seconds.",
+    "You can serve it as is or if you're feeling fancy, pack it into a small bowl rinsed in warm water and flip it over onto a plate to make cute little rice domes, just like they do at dim sum restaurants. Brush with scallion oil and top with fried shallots (optional) and enjoy."
+  ],
+  "category": "rice",
+  "imageUrl": "https://i.imgur.com/LfIEokh.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a911c808c5a677314a858"
+  },
+  "id": 25,
+  "dishName": "Perfect Steamed Rice: Asian Kid Edition",
+  "description": "Master the art of cooking rice like Asian kids! This step-by-step guide covers the finger method, also known as the first knuckle method, the hand method, and a precise alternative for the right rice-to-water ratio to get perfectly cooked white rice. Stove-top instructions included.",
+  "ingredients": [
+    "2 cups rice (I'm using Thai Brand Three Ladies long grain Jasmine rice)",
+    "Water as needed"
+  ],
+  "how_to_cook": [
+    "Eye ball your desired amount of rice or use about 2 cups. Place it directly into the inner pot of the rice cooker or a regular pot with a lid. Fill the pot with plenty of water to cover. Swoosh rice around and gently rub the rice grains together. Drain water over the sink as much as possible by tilting the pot. Repeat two or three times until water is clear.",
+    "Add water to barely cover. Level out the rice grains with the small amount of water by giving the pot a gentle shake back and forth.",
+    "Finger or First Knuckle Method: Place the tip of your pinky finger onto the surface of the rice in the pot. Add more water until it reaches the first joint of your pinky. See illustration above if needed.",
+    "Hand or Back Knuckle Method: Place the palm of your hand directly on the surface of the rice and fill the pot with water until it comes up to the middle knuckles on the back of your hand. See illustrations above if needed.",
+    "Ricer cooker: Close the rice cooker lid, select white rice if applicable, and select start. Fluff the rice using a rice paddle or fork when done.",
+    "Stovetop: Using a pot with a tight-fitting lid, place the pot on the stovetop and cover the pot off-center to prevent the water from boiling over (leave a small gap). Simmer the rice undisturbed for about 20 minutes on medium-low heat. Turn off heat and re-center the lid so it now covers the pot tightly. Let it sit undisturbed for additional 20 minutes. Fluff the rice using a rice paddle or fork when done."
+  ],
+  "category": "rice",
+  "imageUrl": "https://i.imgur.com/HrTWSZV.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a911c808c5a677314a859"
+  },
+  "id": 26,
+  "dishName": "Vietnamese Chicken Porridge (Cháo Gà)",
+  "description": "A delicious and comforting dish, Vietnamese chicken porridge is typically made for someone who is sick, someone who can't chew (the elderly), someone who is learning to eat solid foods (babies), or simply for someone who wants good food to warm the belly on a cold winter day.",
+  "ingredients": [
+    "1 whole free-range chicken (about 3½ lbs)",
+    "3 quarts water",
+    "2 large shallots (peel and slice into large wedges)",
+    "3 oz ginger (leave unpeel; slice into coins)",
+    "1 bunch cilantro",
+    "1 cup jasmine rice",
+    "1 tablespoon sea salt",
+    "1 tablespoon chicken bouillon powder",
+    "1 tablespoon granulated sugar",
+    "1 tablespoon shallot oil (can replace with vegetable oil)",
+    "¼ teaspoon turmeric powder",
+    "Ground black pepper",
+    "Fried shallots",
+    "Green onions or cilantro (thinly slice)",
+    "1 teaspoon sea salt",
+    "1 teaspoon ground black pepper",
+    "3 teaspoons lime or lemon juice",
+    "Vietnamese coriander (Rau Răm)",
+    "Bean sprouts (Giá)"
+  ],
+  "how_to_cook": [
+    "Clean the chicken by rubbing it down with a tablespoon of coarse sea salt on the skin and the inside of the chicken. Rinse with water then drain dry. With a knife and a cutting board, remove the toenails from the chicken, if any. Tuck the legs into the chicken cavity as they tend to stick out of the stock pot. Trim off the fatty parts of the chicken and set aside. The chicken fat will be used to toast the rice.",
+    "In a large pot, add chicken, shallots, ginger, and cilantro. Add water (3 quarts) and bring the pot to a boil. Reduce the heat to a low simmer and cook for 30 minutes. Check for doneness by piercing between the joint of the thigh and body. If the liquid is clear and not pink, chicken is done. Remove all the aromatics and discard. Transfer the chicken to an ice bath for 3 minutes then remove. This step helps to tighten up the skin but is optional. In a small bowl, mix together shallot oil and turmeric powder. Rub this mixture onto the outside of the chicken. This turmeric oil provides the iconic yellow color with a great aroma. The oil will also keep the chicken from drying out. Hand-shred chicken into thin strips then set aside.",
+    "Rinse the rice in a fine-mesh sieve under cold running water until the water runs clear. Drain dry. In a medium pan, add chicken fat and heat on medium-high until you render about 1 tablespoon of chicken oil. You can also use shallot oil if you don't have enough oil. Add rinsed rice and toss it in the chicken fat. Lightly toast for about 5 minutes. Transfer toasted rice to the stock pot. Discard the chicken fat. Cook the rice for 30 minutes on a medium-low simmer or until the rice has broken down into your desired porridge consistency. Make sure to stir the bottom so that it doesn’t burn. Season the porridge with salt, sugar, and chicken bouillon powder to taste.",
+    "Make the dipping sauce by mixing together lime juice, salt, and ground black pepper.",
+    "Ladle porridge into individual bowls. Top with slices of hand-shredded chicken. Garnish the bowl with fried shallots, a dash of freshly ground black pepper, and thinly sliced cilantro/green onions. Serve with a side of Vietnamese coriander (Rau Răm) and bean sprouts (optional)."
+  ],
+  "category": "rice",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/cee25fa1-5b96-4d2c-9c6f-f90a1544bd84/2023_01_05EOS+M55795.jpg?format=750w",
+  "isPopular": true
+},
+{
+  "_id": {
+    "$oid": "662a9121808c5a677314a85a"
+  },
+  "id": 29,
+  "dishName": "Vietnamese Rice Cakes for Lunar New Year (Bánh Tét)",
+  "description": "The quintessential Vietnamese Lunar New Year food (Tét). This bánh tét recipe makes four 7x3-inch cylindrical cakes with each cake yielding about 5 servings.",
+  "ingredients": [
+    "1½ lbs pork belly (skin-on preferred; slice into 4 strips)",
+    "½ teaspoon sea salt",
+    "½ teaspoon granulated sugar",
+    "½ teaspoon fish sauce",
+    "¼ teaspoon ground black pepper",
+    "2 tablespoons finely minced whites of scallions or shallots",
+    "½ teaspoon chicken bouillon powder (optional but recommended)",
+    "5 cups sweet rice",
+    "2 teaspoons sea salt",
+    "2 cups dried split mung beans",
+    "1½ teaspoons sea salt",
+    "1 package (16 oz) banana leaves"
+  ],
+  "how_to_cook": [
+    "To remove surface impurities that may be causing unwanted odor, generously rub the pork belly with coarse salt (about 1 tablespoon). Rinse thoroughly under running water to remove the salt and pat pork belly dry with paper towels. Season pork belly with salt, sugar, fish sauce, ground black pepper, whites of scallions/shallots, and chicken bouillon powder.",
+    "Rinse the dried glutinous rice grains in a colander until water runs clear. Transfer to a mixing bowl and add water to cover by 2 inches. Cover the bowl and let it soak overnight on the counter. Repeat the same process for the dried mung beans. Drain both into separate bowls and season with respective amount of salt.",
+    "Thaw the banana leaves if frozen. Cut out 12 11x11-inch sheets. We will be using 3 sheets of banana leaves per Bánh Tét. If you have extras, keep them handy in case of tearing. Rinse sheets with hot water to clean. The hot water also makes them more pliable and less prone to tearing. Dry each sheet with paper towels.",
+    "Place one banana leaf with the shiny side down with veins running horizontally. Place another banana leaf on top the same way. Place the last banana leaf with the shiny side up with veins running vertically. This will provide a sturdy structure.",
+    "Refer to the diagrams above for filling and wrapping instructions. If tying gets too difficult, you can use multiple strings and make simple knots instead. If all fails, just wrap it haphazardly with a bunch of strings as best as you can and cover with foil.",
+    "Stove-top cooking (option 1): Boil Bánh Tét on the stove-top in a large covered stock pot (8 quarts) on a medium-low simmer. Make sure they are always submerged in water to ensure even cooking. Use a large ceramic bowl or plate to weigh the cakes down if needed. Stove-top cooking will take about 6 hours. Check the water level occasionally and add water as needed.",
+    "Pressure cooker (option 2): Add the cakes into the inner pot of the pressure cooker (8-quarts). Add water to the maximum fill line and pressure cook on high for one hour and 30 minutes. Once done, allow the pressure cooker to depressurize on its own (about 30 minutes).",
+    "Carefully remove Bánh Tét from the hot water and dry with paper towels. Allow them to cool to room temperature. Remove all the banana leaves and slice them into 2-inch coins.",
+    "Enjoy at room temperature or pan-fry the slices in a bit of oil for a golden crunchy crust. Serve it with Vietnamese Fermented Dried Daikon in Fish Sauce (Dưa Món) for the ultimate taste of Vietnamese Lunar New Year. Bánh Tét will keep well in the fridge for up to one week or freeze for up to 8 months."
+  ],
+  "category": "rice",
+  "imageUrl": "https://i.imgur.com/inJ0xTc.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9128808c5a677314a85b"
+  },
+  "id": 33,
+  "dishName": "Vietnamese Sweet Coconut Purple Sticky Rice",
+  "description": "Here’s a cheat version of Vietnamese sweet coconut purple sticky rice using a rice cooker. There’s no need for overnight soaking and no need for a steamer with the perfect size holes. All you need is what you probably already have, a rice cooker.",
+  "ingredients": [
+    "2 cups water",
+    "2 oz magenta leaves and stems",
+    "3 cups sweet glutinous rice (nếp)",
+    "1 cup coconut milk",
+    "½ teaspoon sea salt",
+    "¼ cup granulated sugar",
+    "½ cup skinless peanuts",
+    "1 tablespoon raw sesame seeds",
+    "3 tablespoons granulated sugar",
+    "½ teaspoon sea salt",
+    "1 cup unsweetened shredded coconut (optional)"
+  ],
+  "how_to_cook": [
+    "Make the magenta liquid: In a small pot, add water and magenta leaves and stems. Bring the mixture to a boil and cook on a low simmer for 10 minutes. Strain out leaves and discard. Set aside the liquid to cool. See notes below if you don't have magenta leaves.",
+    "Wash rice by adding sweet rice with plenty of water to the rice cooker pot. Gently swoosh around the rice grains with your hands. Drain the water by tilting the pot to the side and discard as much cloudy water as you can into the sink. Repeat until water runs clear. Drain as much liquid from the pot but it's OK if there's a bit of water still left.",
+    "Add 1-½ cups magenta liquid to the rice. Mix in coconut milk. Select the sweet rice option on the rice cooker and press start. See troubleshooting notes below if needed. Once the rice is done, gently mix in the salt and sugar.",
+    "Prep the toppings: Add raw peanuts to a dry skillet. Lightly toast peanuts on medium-high heat until you have a light charring. Make sure to toss peanuts around to prevent burning. Using a food processor or a mortar and pestle, break the peanuts into coarse pieces and set aside. To the now empty skillet, dry toast sesame seeds until they turn golden brown. Mix the sesame seeds around to prevent burning. Transfer the toasted sesame to a small bowl then add sugar and salt. Mix until combined then set aside.",
+    "When ready to serve, divide the sticky purple rice into individual servings. Top each serving with the coarsely chopped toasted peanuts, a sprinkle of sesame seed mixture, and grated coconut."
+  ],
+  "category": "rice",
+  "imageUrl": "https://i.imgur.com/PcwoV99.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9129808c5a677314a85c"
+  },
+  "id": 34,
+  "dishName": "How to Make Sushi Rice in a Rice Cooker",
+  "description": "Make deliciously fluffy and fragrant sushi rice that's perfect for uramaki (sushi rolls with seaweed on the inside), maki (sushi rolled with seaweed on the outside), temaki (sushi hand roll that's shaped into a cone), and nigiri (thinly sliced raw fish laid over rice).",
+  "ingredients": [
+    "1-½ cups sushi rice (medium grain rice grains)",
+    "2 cups water",
+    "2 tablespoons rice vinegar",
+    "2 teaspoons granulated sugar",
+    "¼ teaspoon sea salt"
+  ],
+  "how_to_cook": [
+    "Rinse the rice until the water runs clear. You can use a fine mesh strainer in the sink or add the rice grains directly to the rice cooker bowl, add water, and tilt to drain.",
+    "In a microwave safe bowl, add rice vinegar, sugar, and salt. Heat in the microwave (about 30 seconds) until sugar has completely melted. You can alternatively do this on the stovetop in a small sauce pan.",
+    "Using a rice paddle, incorporate the mixture into the cooked rice with a slicing motion to prevent breaking the fluffy rice.",
+    "Sushi rice is now ready for your sushi-making needs. Allow the rice to cool slightly before handling. Have a large bowl of water handy to wet your hands. This will prevent the rice from sticking to them."
+  ],
+  "category": "rice",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1588892885001-CFGX6GP7DJ0RBPPX8YB8/riced+-wm.jpg?format=1000w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9139808c5a677314a85d"
+  },
+  "id": 42,
+  "dishName": "Sweet Spaghetti and Meatballs Recipe",
+  "description": "A sweet version of spaghetti and meatballs, just the way I like it. It's similar to Filipino spaghetti, but without the banana ketchup and red hot dogs— just good ole sugar as a sweetener and super moist and flavorful made-from-scratch beef meatballs.",
+  "ingredients": [
+    "2 slices white bread",
+    "⅓ cup whole milk (or water)",
+    "1 lb lean ground beef",
+    "1 teaspoon garlic powder",
+    "1 teaspoon onion powder",
+    "1 teaspoon Italian seasoning",
+    "½ teaspoon salt",
+    "½ teaspoon ground black pepper",
+    "⅓ cup grated parmesan cheese",
+    "1 whole egg",
+    "2 tablespoons all purpose flour (to coat meatballs)",
+    "2 tablespoons olive oil (for frying meatballs)",
+    "Rao's 28 oz marinara sauce",
+    "1 teaspoon granulated sugar",
+    "1 lb dried spaghetti noodles",
+    "2 tablespoons salted butter",
+    "Thinly sliced basil (optional)"
+  ],
+  "how_to_cook": [
+    "Combine bread slices with milk and set aside for 5 minutes, then mash with a fork into small pieces.",
+    "In a large mixing bowl, add ground beef, garlic powder, onion powder, Italian seasoning, salt, ground black pepper, parmesan cheese, mashed bread, and egg. Mix until well combined.",
+    "Shape the mixture into golf ball-sized meatballs (about 28 in total). Dredge or roll the meatballs in flour, dusting off any excess.",
+    "Heat a wide skillet with olive oil. Add the meatballs and brown them on all sides, about 8 minutes in total. Remove the meatballs and set them aside. Drain off any excess oil, leaving a thin layer in the skillet. Return the meatballs to the skillet and set it aside for now.",
+    "Cook the pasta according to the package instructions until al dente or to your desired doneness. Reserve ¼ cup of pasta water, then drain the rest. Return the noodles to the empty warm pot. Add butter and toss until the butter is completely melted.",
+    "Back to the meatball skillet, return it to the stove. Add your favorite tomato sauce or marinara sauce. To the jar, add the reserved pasta water and swirl it around to get all the sauce from the jar. Pour it into the skillet and bring the mixture to a light simmer. Partially cover with a lid or cover with a splatter screen to reduce splatter, and cook for 5 minutes, just enough for the sauce to warm through and finish cooking the meatballs. Season the sauce with sugar.",
+    "Plate spaghetti. Ladle the sauce and meatballs over the spaghetti. Garnish with more parmesan cheese and fresh basil if desired."
+  ],
+  "category": "beef",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/27fa7297-ef90-44eb-a01c-a98dfe00b590/2024_04_12EOS+M508731.jpg?format=750w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a913a808c5a677314a85e"
+  },
+  "id": 43,
+  "dishName": "Even Simpler Instant Pot Beef Pho with Store",
+  "description": "A super simplified Instant Pot Vietnamese beef noodle soup with just three essential ingredients: meaty bones, aromatics, and a store-bought soup base. This pressure cooker version delivers the authentic taste of a Vietnamese pho restaurant to your home in one hour.",
+  "ingredients": [
+    "5 lbs beef chuck short ribs",
+    "1 large yellow onion",
+    "3-inch ginger",
+    "Quoc Viet Beef Soup Base",
+    "2 lbs rice noodles",
+    "Green onions (thinly sliced)",
+    "Lime wedges",
+    "Ground black pepper"
+  ],
+  "how_to_cook": [
+    "Prep: Peel the outer layer of the onion and leave whole. Slice the unpeeled ginger into thick coins and lightly smash each coin to release its aroma. Trim away any excess fat from the beef ribs.",
+    "Pressure Cook: In an 8-quart pressure cooker, combine the beef short ribs, onion, and ginger. Divide the pho paste into thirds and add one-third along with one of its spice bags to the pressure cooker. Add water to the max fill line, then pressure cook on high for one hour.",
+    "Cook the Noodles: In the meantime, cook the noodles in a large pot of boiling water following the package instructions, or cook one serving at a time for best results.",
+    "Quick Release: Once pressure cooking is done, do a quick release. Remove and discard the spice bag, onion, and ginger. Skim off the excess fat on the top. Taste test and add more pho soup base paste, if needed. You can keep the beef ribs in the broth or remove the bones from the ribs and slice thin.",
+    "Assembly: In a bowl, add cooked noodles and ladle in hot broth. Add beef ribs/meat. Garnish the bowl with green onions, a sprinkle of ground black pepper and a squeeze of lime. For extra flavor, serve with hoisin and sriracha chili sauce."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/sCyH4Lt.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a913a808c5a677314a85f"
+  },
+  "id": 44,
+  "dishName": "Korean-Style Easy Oxtail Radish Soup",
+  "description": "This Korean-style oxtail and radish soup features a rich, collagen-packed broth with tender oxtail bones and thinly-sliced radish. Enjoy with steamed rice, noodles or on its own.",
+  "ingredients": [
+    "2 lbs oxtail",
+    "1 tablespoon vegetable oil",
+    "1 yellow onion (peeled)",
+    "2 quarts water",
+    "1 small Korean radish or daikon (peeled, quartered, and sliced thin)",
+    "3 garlic cloves (about 1 tablespoon minced)",
+    "2 teaspoons salt",
+    "2 teaspoons light soy sauce",
+    "½ teaspoon granulated cane sugar (optional)",
+    "½ teaspoon MSG (optional)",
+    "Ground black pepper",
+    "Thinly sliced green onions",
+    "Sesame oil"
+  ],
+  "how_to_cook": [
+    "Parboiling and Cleaning Oxtail Bones. Add the beef oxtail bones to a large stock pot with heavy bottom and fill with water to cover. Bring it up to a rolling boil. After 12 minutes, impurities should float to top. Remove the bones and rinse each bone piece well under running water. Discard the water, clean the pot and return to stove.",
+    "Frying: Return the stock pot back to the stove. Wipe it down so there’s no moisture. Heat oil over medium-high heat. Gently add the oxtail pieces and sear each side for 3-4 minutes, turning for even browning.",
+    "Simmer: Add onion and water (2 quarts) to the stock pot and simmer on medium low for two hours, uncovered. Occasionally skim the top to remove further impurities and additional fat. Remove the onions. Add the Korean radish and garlic. Continue to simmer on medium-low for 10 minutes or until radish is tender.",
+    "Season to taste: Add salt, soy sauce, sugar, and MSG, a little at a time to taste.",
+    "Garnish and serve: Divide the broth into four portions and garnish each bowl with green onions, a dash of ground black pepper and a drizzle of sesame oil. Enjoy as is as a comforting bowl of hot bone broth or make it more filling by adding steamed white rice or noodles. I also like to serve it with kimchi on the side."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/LSDfyNa.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a913b808c5a677314a860"
+  },
+  "id": 45,
+  "dishName": "Restaurant-Style Beef and Broccoli Stir Fry",
+  "description": "If you're craving a delicious beef and broccoli dish that reminds you of your favorite Chinese restaurant, then this is it! This dish features thinly sliced beef and crisp broccoli, coated in a thick and savory soy-based sauce. In this recipe, we'll include a secret restaurant hack called velveting, which guarantees ridiculously tender beef. Everything comes together in less than 30 minutes!",
+  "ingredients": [
+    "1 lb beef",
+    "½ teaspoon light/regular soy sauce",
+    "½ teaspoon baking soda",
+    "2 tablespoons water",
+    "1 egg",
+    "3 tablespoons corn starch",
+    "1 tablespoon granulated sugar",
+    "½ cup water",
+    "3 tablespoons light/regular soy sauce",
+    "3 tablespoons oyster sauce",
+    "1 teaspoon dark soy sauce",
+    "2 tablespoons corn starch",
+    "2 tablespoons room temperature water (no hot water)",
+    "1½ lbs broccoli florets",
+    "1 tablespoon minced fresh garlic",
+    "Vegetable oil for frying"
+  ],
+  "how_to_cook": [
+    "Trim the beef of excess fat, if any, and cut against the grain into thin bite-size slices. In a bowl, toss together beef, baking soda, and water. Let the mixture sit for 15 minutes to tenderize. Crack the egg into the beef mixture and toss evenly. Add corn starch and toss evenly again. Set aside.",
+    "Make the stir-fry sauce and slurry mixture: In a medium bowl, combine sugar, water, soy sauce, oyster sauce, and dark soy sauce. Set aside. In a small bowl, mix together tapioca starch and room-temperature water until fully dissolved. Set aside.",
+    "In a large wok or skillet, add water (about 1 inch) and heat to a rolling boil. Add broccoli florets and blanch for 2-3 minutes or until they turn bright green and can be pierced with a fork with some resistance.",
+    "Empty the water from the skillet. Wipe it down with paper towels to ensure the skillet is completely dry. Add vegetable oil (about ½ inch). Heat on medium-high or 375°F. Add beef slices, one by one to prevent sticking. Fry for 2-3 minutes or until golden brown on all sides then remove from skillet.",
+    "Remove oil from the wok. Wipe wok clean with paper towels. Add 1 tablespoon of used oil from the beef. Heat on medium-high then add garlic and fry for 10 seconds. Add stir-fry sauce, broccoli, and beef. Toss until combined and cook for 2 minutes to allow the beef and broccoli to absorb the sauce.",
+    "Re-whisk the slurry sauce until smooth in case it has settled to the bottom then add to the skillet. Toss everything together until combined. Once the sauce thickens, you're done! Serve beef and broccoli with rice or noodles for a complete meal."
+  ],
+  "category": "beef",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1622662197035-YYN3KMNV5SMGEOPJA9GL/EOS+M5_3350.jpg?format=2500w",
+  "isPopular": true
+},
+{
+  "_id": {
+    "$oid": "662a913c808c5a677314a861"
+  },
+  "id": 46,
+  "dishName": "Black Pepper Beef with Noodles & Vegetables",
+  "description": "A delicious combination of vegetables, thick yellow Asian noodles, and tender beef, tossed in a peppery sweet and savory brown sauce. This healthy dinner option is easily customizable and makes excellent leftovers for the next day.",
+  "ingredients": [
+    "1 lb beef sirloin",
+    "1 tablespoon light soy sauce",
+    "½ teaspoon baking soda (meat tenderizing hack)",
+    "2 tablespoons water",
+    "1 whole egg",
+    "2 tablespoons corn starch",
+    "3 tablespoons light soy sauce",
+    "2 tablespoons dark soy sauce",
+    "2 tablespoons oyster sauce",
+    "2 tablespoons granulated white sugar",
+    "2 tablespoons sesame oil",
+    "¼ cup water",
+    "1 tablespoon corn starch",
+    "Vegetable oil for frying",
+    "2 lbs cooked thick yellow Asian noodles",
+    "1 small yellow onion (peel, cut into large wedges)",
+    "3 bell peppers (deseed and cut into strips)",
+    "Freshly ground black pepper"
+  ],
+  "how_to_cook": [
+    "Prepare the beef. Cut away any large areas of fat. Slice the beef against the grain into ⅛\" thick bite-size pieces. In a medium-sized bowl, mix beef with soy sauce, baking soda, water, egg and cornstarch (see notes). Marinate for at least 15 minutes. If using chuck roast, which is a tougher cut of beef, marinate for at least one hour.",
+    "Make the Sauce. In a small bowl, mix together sauce ingredients until cornstarch is completely dissolved.",
+    "Begin boiling salted water for the noodles and cook them according to package instructions.",
+    "Deep Fry Beef. In a large wok, add a generous amount of oil (about ½\" high) and heat on medium-high. Drop beef, one slice at a time, into the hot oil and fry for about 2 minutes, making sure to toss for even cooking. Do this in batches if need to prevent overcrowding that could drop the temperature. Transfer beef to plate lined with paper towels to absorb excess oil. Drain oil from the skillet, leaving a thin layer behind in the skillet. Heat the oil on medium-high. Add yellow onion. Sauté until fragrant (about 1 minute).",
+    "Add bell peppers (or your vegetables of choice) and cook for 1-2 minutes or until softened. Return fried beef to the wok, along with all its juices.",
+    "Add the sauce. Cook until the sauce thickens (about 1 minute). Garnish with freshly crack black pepper. Add as much as you like or until you start coughing uncontrollably."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/YCIEAkO.jpg",
+  "isPopular": true
+},
+{
+  "_id": {
+    "$oid": "662a913c808c5a677314a862"
+  },
+  "id": 47,
+  "dishName": "Vietnamese Beef Stew   (Bò Kho)",
+  "description": "A traditional Vietnamese beef stew, Bò Kho is hearty and full of flavor. It’s perfect for a comforting and satisfying meal any day, but particularly nice on a cold day. It is made with tender beef chuck, aromatic spices, and carrots, all slow-cooked to perfection in a savory tomato-based broth. Enjoy this dish with steamed rice, a toasty baguette, or noodles.",
+  "ingredients": [
+    "3 lbs beef (boneless beef chuck)",
+    "1 teaspoon red curry powder",
+    "1 teaspoon sea salt",
+    "1 tablespoon granulated cane sugar",
+    "1 tablespoon chicken bouillon powder (optional)",
+    "1 teaspoon MSG (optional)",
+    "2 tablespoons minced garlic",
+    "2 tablespoons minced shallots",
+    "3 large carrots (1 lb)",
+    "2 large stalks fresh lemongrass",
+    "2-inch knob ginger",
+    "2 tablespoons vegetable oil or annatto oil",
+    "2 tablespoons tomato paste",
+    "1 can coconut soda or juice (12 fl oz)",
+    "5 cups water",
+    "1 Chinese cinnamon stick (cassia bark)",
+    "3 whole star anise",
+    "1 tablespoon fish sauce",
+    "½ tablespoon light soy sauce",
+    "Cilantro",
+    "Thai Basil",
+    "¼ teaspoon ground black pepper",
+    "½ teaspoon salt",
+    "2 teaspoons fresh lime juice"
+  ],
+  "how_to_cook": [
+    "Cut away excess fat from the beef chuck then slice beef into 1\" to 1-½” cubes. Peel the carrots and cut them into the same size chunks as the beef. Discard the lemongrass leafy tops, if any. Cut the lemongrass stalk into 4\" segments. Smash the stalks with a mallet or something heavy to release their aroma and flavor. Slice the ginger into thick coins and give each coin a gentle smash.",
+    "Add beef cubes to a medium bowl and marinate with red curry powder, salt, sugar, chicken bouillon powder, MSG, garlic, and shallots for at least 30 minutes, or overnight in the fridge for better results.",
+    "To the bottom of a large pot with a lid, add oil and heat on medium-high. Add beef. Pan fry until you get color on all sides (about 5 minutes). Clear the center. Add the lemongrass and ginger slices. Pan fry for about one minute.",
+    "Stir in tomato paste. Add coconut soda, and water. Braise with the lid on for 1-½ hours on low heat.",
+    "Add carrots, cinnamon stick and whole star anise. Continue cooking with a covered lid on a low simmer until carrots are chopstick-tender (about more 30 minutes). If the liquid is evaporating off too much, add a bit more water. Discard the lemongrass, ginger slices, cinnamon stick and star anise.",
+    "Season broth to taste with a bit of fish sauce and light soy sauce.",
+    "When ready to serve, garnish with cilantro or Thai basil.",
+    "Make the optional dipping sauce by mixing together lime/lemon juice, ground black pepper and salt and serve with a toasted French baguette, or steamed white rice. If making this with rice noodles, add a bit more hot water to the stew to make it soupier. Season the broth with additional fish sauce and soy sauce, if needed."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/XXwSx49.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a913d808c5a677314a863"
+  },
+  "id": 48,
+  "dishName": "Chinese-Style Pan-Fried Beef with Carrots and Green Beans",
+  "description": "Looking for a quick and easy weeknight meal? Try this Chinese-style pan-fried marinated beef that can be on the table in just 20 minutes. This stir fry recipe features thinly sliced beef, carrots and green beans.",
+  "ingredients": [
+    "1 lb thinly sliced beef sirloin",
+    "1 tablespoon light soy sauce",
+    "1 tablespoon dark soy sauce",
+    "1 tablespoon oyster sauce",
+    "1 tablespoon granulated sugar",
+    "1 tablespoon rice vinegar",
+    "1 tablespoon sesame oil",
+    "1 tablespoon minced garlic (fresh or jarred)",
+    "2 scallions (cut into 1-inch segments)",
+    "1 tablespoon toasted sesame seeds",
+    "½ small yellow onion (thinly sliced)",
+    "½ lb green onions (remove ends)",
+    "½ lb thinly sliced carrots",
+    "2 tablespoons vegetable oil"
+  ],
+  "how_to_cook": [
+    "Slice the beef against the grain into thin bite-size strips, if it hasn’t already come sliced. In a large bowl, combine light soy sauce, dark soy sauce, oyster sauce, sugar, rice vinegar, sesame oil, garlic, scallions, and sesame seeds. Taste test at this point and adjust seasonings, if needed. Add beef and mix well to coat the beef with the sauce.You can cook the beef right away, or marinate it in the refrigerator overnight for even more flavor.",
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat. Add the yellow onion and cook until soften and lightly charred, about 5 minutes.",
+    "Add the marinated beef to the skillet. Cook for about 4 minutes more, or until semi-cooked through. We want to finish cooking it at the same time as the vegetables.",
+    "To the skillet, add the green beans and carrots. Cook until tender, about 2 minutes more.",
+    "Serve with steamed rice and enjoy."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/0jCm0zy.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a913e808c5a677314a864"
+  },
+  "id": 49,
+  "dishName": "Vietnamese Steak and Eggs (Bò Né)",
+  "description": "Bò Né is a delicious dish combining the best Vietnamese and French cuisine. It is a hearty and satisfying breakfast dish that is also perfect for any time of day. The seared sizzling steak and eggs are served with pate, tomatoes, onions, sunny-side-up fried egg, pickled vegetables, and a baguette for scooping.",
+  "ingredients": [
+    "1 lb beef steak (tenderloin, sirloin, top loin, or flank)",
+    "2 tablespoons oyster sauce",
+    "1 teaspoon soy sauce",
+    "2 teaspoon fish sauce",
+    "1 tablespoon dark brown sugar",
+    "2 large garlic cloves (peel and finely chop)",
+    "1 teaspoon sesame oil",
+    "4 tablespoons unsalted butter (divided)",
+    "Yellow onion (peel and cut into thin wedges)",
+    "2 large tomatoes (cut into thick wedges)",
+    "4 eggs",
+    "4 small Bánh Mì Vietnamese Baguette"
+  ],
+  "how_to_cook": [
+    "You can keep the steak whole but I like to cut them into thick slices (about ⅛”) against the grain for easy eating. In a medium bowl, mix together oyster sauce, soy sauce, fish sauce, dark brown sugar, garlic, and sesame oil. Add sliced steak to the marinade and toss to coat. Marinate for at least 15 minutes or overnight in the fridge, covered.",
+    "Heat a single-serving cast-iron pan or skillet over medium-high heat. Add half tablespoon of butter to the pan. Add the onions (¼ portion) to the pan and cook until they are softened and lightly charred, about 5 minutes. Add marinated steak (¼ portion) to the pan and cook for about 5 minutes total, or until it reaches your desired level of doneness if using whole steak.",
+    "Once the steak is about done cooking, add half tablespoon of butter to the pan. Crack an egg into the butter and cook to your desired doneness. I like mine sunny side up, with a runny yolk.",
+    "Add a few slices of tomato wedges to the pan and cook until slightly charred.",
+    "Garnish with cilantro or green onions. Add pickled vegetables and pate. Serve immediately with a baguette. Repeat three more time as this recipe makes four servings.",
+    "To enjoy, tear off a piece of baguette and dip it into the runny egg yolk. Use the baguette to scoop up some of the steak, tomatoes, and pickled vegetables. Add a dollop of pate to your baguette. Take a bite and enjoy the delicious combination of flavors!"
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/Dlq0uyw.jpg",
+  "isPopular": true
+},
+{
+  "_id": {
+    "$oid": "662a913f808c5a677314a865"
+  },
+  "id": 50,
+  "dishName": "Quick and Easy Beef Pho with Beef Ribs (3 Servings Only)",
+  "description": "This streamlined version of the classic beef phở is perfect for a small family or for one person with a few leftovers. Enjoy an authentic taste of the popular Vietnamese beef noodle soup, made from scratch, without the fuss.",
+  "ingredients": [
+    "4 lbs meaty beef ribs",
+    "3 quarts water",
+    "3 inch fresh ginger (peel, slice into thick coins, smash lightly)",
+    "1 yellow onion (peel and halve)",
+    "2 tablespoons granulated cane sugar",
+    "1 tablespoons sea salt",
+    "2 tablespoons fish sauce",
+    "1 teaspoon msg (optional)",
+    "2 phở spice tea packets (1 box contains 4 tea bags)",
+    "16 oz fresh rice noodles",
+    "Green onions",
+    "Lime wedges",
+    "Red Chili Peppers",
+    "Hoisin Sauce",
+    "Sriracha Chili Sauce"
+  ],
+  "how_to_cook": [
+    "Heat a medium pot with a heavy-bottom over medium-low heat. No oil is needed. Add onion halves and sliced ginger. Toast until they are browned on both sides, about 6 minutes per side.",
+    "Add water and beef ribs. Bring the pot to a boil, then reduce heat to low, cover and simmer for 1.5 hours.",
+    "Add spice bags and continue simmering for 30 minutes covered or until the ribs are tender.",
+    "Remove the beef ribs and set aside as a meaty topping. Remove the spice packets, onions, and ginger.",
+    "Use a fine mesh spoon to help you skim the impurities and small bone bits that may cloud the broth. If you want a much clearer broth, strain the whole pot through a fine-mesh strainer into a new pot.",
+    "Beef ribs contain a lot of fat. There will be a thick layer of fat floating on top of the broth. I highly recommend skimming the surface with a large spoon to remove the excess fat. Alternatively, place the whole pot in the fridge. The fat will solidify at the top and appear white in color, which you can then easily remove in large chunks. Just don’t remove all as fat is flavor!",
+    "Season broth to taste with fish sauce, sugar, salt, and MSG.",
+    "Cook the rice noodles per the package instructions. Divide the rice noodles into three regular bowls or four small bowls. Top with beef ribs, hot broth, and garnished with thinly sliced green onions and chili peppers.",
+    "To enjoy, squeeze a wedge of lime. Add a little of hoisin and chili sauce into the bowl or serve it on the side as a dipping sauce for the ribs."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/tTc83B7.jpg",
+  "isPopular": true
+},
+{
+  "_id": {
+    "$oid": "662a913f808c5a677314a866"
+  },
+  "id": 51,
+  "dishName": "Vietnamese Beef Noodle Soup (Pho Bo)",
+  "description": "Savor the wonderful flavors of Vietnam's with this traditional beef pho recipe. This Southern-style variation of beef pho features flat rice noodles with tender beef slices in an aromatic and hearty beef broth, all complemented by fresh herbs and customizable toppings.",
+  "ingredients": [
+    "6 lbs beef bones (ox tail, neck bones, knuckles and/or shank bones)",
+    "5 quarts water",
+    "8 large shallots (or two yellow onions)",
+    "3-inch ginger",
+    "1 stick Chinese cinnamon",
+    "2 teaspoons dried cloves",
+    "2 teaspoons dried coriander",
+    "3 dried cardamom",
+    "3 dried star anise",
+    "30 grams rock sugar",
+    "2 tablespoons fish sauce",
+    "1 tablespoon sea salt",
+    "1/2 tablespoon MSG (optional)",
+    "Any meat from beef bones after making stock",
+    "1-1/2 lbs thinly sliced eye-round beef steak",
+    "1 11-oz bag cooked beef balls (Bo Vien)",
+    "2 lbs fresh rice noodles",
+    "1 white/yellow onion (slice thinly)",
+    "1 small bunch cilantro (roughly chop)",
+    "5 green onions/scallions (slice thinly)",
+    "3 jalapenos (slice thinly)",
+    "3 limes (cut into wedges)",
+    "Hoisin sauce",
+    "Sriracha sauce"
+  ],
+  "how_to_cook": [
+    "Cleaning the bones will get rid of all the impurities and ensure a clear broth. Bring a large pot of water to a rolling boil. Add beef bones and boil for 8 minutes or until foam float to the top. If using marrow bones, boil for only 3 minutes. Any longer will remove the marrow, which would not be good. Remove the bones from the pot and rinse the bones well under cold running water. Discard the water and clean the pot.",
+    "Peel the shallots and slice the ginger into thick coins. Transfer shallots and ginger to a baking tray and roast in the toaster oven at 400°F for 20 minutes or until lightly charred on the edges.",
+    "In the clean pot, add water (5 quarts) and bring to a boil. Add cleaned bones, shallots, and ginger. Cook for 2 hours, uncovered on a low simmer. Occasionally, use a ladle or mesh strainer to skim off any impurities that float to the top and discard.",
+    "Remove all the aromatics and bones from the stock and discard. There may be a good amount of tender meat on the bones so remove the meat from the bones and set aside as a meaty topping before discarding bones.",
+    "In a small frying pan, dry roast (no oil) the spices for about 30 seconds or until fragrant. Shake them around to prevent burning. Wrap the roasted spices in a cheesecloth or if you are using the pho spice seasoning packet, use the accompanying spice bag. Add to stockpot. Simmer on low for 30 minutes. After 30 minutes, remove the spice packet.",
+    "Season stock with rock sugar, fish sauce, salt and MSG (optional). Start with a little at a time and adjust to your taste.",
+    "Cook rice noodles per package instructions. Divide noodles evenly between eight bowls. Add your choices of meat with the raw slices of eye-round beef steak on top. Ladle hot broth over the raw beef slices. Top with a bit of white/yellow onions, green onions, and cilantro. Serve with hoisin and sriracha sauce, and a small platter of bean sprouts, Thai basil, jalapenos, lime, and enjoy."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/67Lp5fh.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9140808c5a677314a867"
+  },
+  "id": 52,
+  "dishName": "Mongolian Beef Stir Fry with Bell Peppers",
+  "description": "No need for takeout. Whip up tender and velvety Mongolian beef at home in 20 minutes! Add bell peppers or any vegetables of your choice. Serve with rice or noodles for a complete meal.",
+  "ingredients": [
+    "1 lb beef (flank, strip, or sirloin steak)",
+    "1 tablespoon light soy sauce",
+    "½ teaspoon baking soda",
+    "2 tablespoons water",
+    "1 beaten egg",
+    "2 tablespoons corn starch",
+    "Vegetable oil for frying",
+    "1 tablespoon vinegar",
+    "1 tablespoon granulated sugar",
+    "1 tablespoon light soy sauce",
+    "1 tablespoon dark soy sauce",
+    "1 tablespoon sesame oil",
+    "1 tablespoon oyster sauce",
+    "1 small yellow onion (peel, cut into large wedges)",
+    "1-inch ginger (peel, cut into thin strips)",
+    "Dried red chili peppers (optional)",
+    "4 green onions (slice into 2” pieces)",
+    "2 cloves garlic (peel, thinly slice)",
+    "3 bell peppers (deseed and cut into bite-size pieces)"
+  ],
+  "how_to_cook": [
+    "Slice the beef against the grain into ⅛\" thick bite-size pieces. In a medium-sized bowl, mix beef with soy sauce, baking soda, water, and beaten egg. Leave the corn starch out until you are ready to fry. Let it marinate for at least 10 minutes.",
+    "Make the sauce. In a small bowl, mix together vinegar, sugar, light soy sauce, dark soy sauce, sesame oil, and oyster sauce.",
+    "In a medium-size skillet or wok, add a generous amount of oil (about ½ inch high ) and heat on medium-high. Excess oil will be removed later. While you are waiting for the oil to reach temperature, add corn starch to the beef and give it a toss with your hands until evenly coated. Drop beef, one slice at a time, into the hot oil and fry for about 2 minutes, making sure to toss for even cooking. Do this in batches to prevent overcrowding that could drop the temperature. Remove beef and transfer to a wire rack or a plate lined with paper towels to drain excess oil.",
+    "Drain oil from the skillet, leaving a thin layer behind in the skillet. Heat the oil on medium-high. Add yellow onion, ginger, chili peppers (if using), the root ends of the green onions, and garlic. Saute until fragrant (about 30 seconds).",
+    "Add bell peppers, fried beef, and the prepared sauce. Toss until combined. Cook for 2 minutes. Serve with steamed rice or noodles for a complete meal."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/68MWBYB.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9141808c5a677314a868"
+  },
+  "id": 53,
+  "dishName": "Vietnamese Spicy Beef Noodle Soup (Bun Bo Hue)",
+  "description": "Have you tried Central Vietnam’s spicy beef noodle soup? If you love pho (Vietnamese beef noodle soup) and looking for a fiery version, you will like its spicy cousin.",
+  "ingredients": [
+    "2 lbs pork knuckles",
+    "1-½ lbs boneless beef shank",
+    "1-½ lbs boneless pork shank",
+    "½ lb beef tendon",
+    "5 quarts water",
+    "4 stalks lemongrass (tender bottom parts only)",
+    "10 shallots or 1 large onion",
+    "1 large chunk ginger",
+    "A quarter of very ripe pineapple or 1 small can of pineapple and all its juices",
+    "1 tablespoon chicken or mushroom bouillon powder",
+    "1-½ tablespoons fish sauce",
+    "1-½ tablespoons sea salt",
+    "2 tablespoons fermented shrimp paste (mắm ruốc or mắm tôm)",
+    "30 grams rock sugar",
+    "½ cup vegetable oil",
+    "1 large shallot (finely diced)",
+    "2 stalks lemongrass (finely diced bottom tender stalk only)",
+    "3 garlic cloves (finely diced)",
+    "Fresh chilies (as much as you like)",
+    "3 tablespoons Bun Bo Hue seasoning premix",
+    "1 teaspoon fish sauce",
+    "1 teaspoon granulated sugar",
+    "2 lbs package dried extra-large rice vermicelli (usually labeled Bun Bo Hue noodles)",
+    "1 stick Vietnamese ham (chả lụa/giò lụa)",
+    "Cooked pork blood",
+    "Green onions (thinly sliced)",
+    "Cilantro (thinly sliced)",
+    "Lemon/lime wedges",
+    "Bean sprouts",
+    "Banana blossom (thinly slice)",
+    "White/purple cabbage (thinly slice)",
+    "Mint leaves"
+  ],
+  "how_to_cook": [
+    "Clean the bones and meat: To a large stockpot, add knuckles, boneless shanks and tendon. Add water to cover and bring the pot to a boil. When the pot reaches a rolling boil and impurities float to the top (about 5-7 minutes after boiling), turn off the heat. Place a colander in the sink and drain the contents of the pot into the colander. Thoroughly rinse bones/meat under cold running water and drain dry. Wrap up boneless pork shank into a tight bundle with twine for easier slicing later.",
+    "Wash the used pot thoroughly and return it to the stove. Transfer parboiled bones/meat to the pot and fill with 5 quarts of water. Smash the lemongrass stalks and tie them with twine. Peel the shallots/onions and slice the ginger into thick coins. All all to the stockpot. Bring the pot to a boil then lower heat to cook on a low simmer, covered, for 2 hours. Occasionally skim the surface of the stock to keep it clear.",
+    "After one hour of cooking, pork knuckles should be done first. Check the knuckles for doneness by piercing it with a chopstick. When chopstick pierces through easily without resistance, knuckles are done. Remove and set aside. After 1-½ hours, beef and pork shanks should be done too. Check for doneness by piercing them with a chopstick. If there is no resistance and water runs clear, shanks are done. Remove and set aside with the knuckles. Beef tendons will cook the longest (about 2 hours). Once done, transfer tendon, shanks, and knuckles to the refrigerator to cool. For quicker cooling, place them in an iced bath. Chilling will firm up the meat and make it easier for slicing. Once chilled, cut knuckles into bite-size pieces if they are too big, and thinly sliced the shanks and tendon. Set everything aside as meaty toppings.",
+    "Remove all remaining solids (onions/shallots, ginger, lemongrass, and pineapple) from the stockpot. Season stock with chicken stock powder, fish sauce, sea salt, rock sugar, and fermented shrimp paste. Add a little at a time to your liking. For the fermented shrimp paste, it's best to whisk it together with a bit of stock water to prevent clumps then pour it into the stockpot.",
+    "Sate sauce: In a small saucepan, heat up vegetable oil on medium-low heat. Add shallots and lemongrass. Pan fry for 10 seconds or until fragrant. Add garlic, your desired amount of chili peppers, and Bun Bo Hue seasoning packet next. Pan fry for 5 seconds then turn off the heat to prevent burning. If you can’t find Bún Bò Huế seasoning powder, substitute with paprika or similar red pepper powder. Season with fish sauce and sugar. Add sate sauce to the stock. For those with children or anyone who can't handle spicy food, divide the stock before adding sate sauce, or simply add sate sauce to individual bowls instead.",
+    "Cook the noodles for 20 minutes or until soft (disregard package instructions as I typically find that it's never long enough). Place a colander in the sink and drain noodles into the colander. Rinse with cold water to prevent sticking.",
+    "To assemble, place a handful of noodles into a bowl. Add desired amount of sliced boneless shanks, pork knuckles/hocks, sliced Vietnamese ham (Cha Lua/Gio Lua) and pork blood cubes (if using). Ladle in hot broth. Garnish with sliced green onions and cilantro. Serve with a platter of fresh vegetables and lime/lemon wedges. You can also serve with a small bowl of shrimp paste and sate sauce on the side for further individual customizations."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/3dnih4O.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9141808c5a677314a869"
+  },
+  "id": 54,
+  "dishName": "Steak with Asian Crack Sauce Recipe",
+  "description": "Looking for a new steak sauce? Try this amazing umami-packed Asian sauce. It’s a sweet and spicy sauce made from a combination of fish sauce, sugar, lime juice, shallots, garlic, cilantro, and chili peppers. It’s so good on just about everything and so addicting that we simply call it the Asian crack sauce.",
+  "ingredients": [
+    "1-½ tablespoons fish sauce",
+    "1 tablespoon fresh lime juice",
+    "1 or 2 red Thai chili peppers (slice thinly)",
+    "1 small shallot (finely dice)",
+    "1 large garlic clove (finely dice)",
+    "1 tablespoon fresh minced cilantro",
+    "2 tablespoons brown sugar (loosely packed)",
+    "2 New York strip or sirloin steaks (1-½ inch thickness)",
+    "Salt to taste",
+    "Ground black pepper to taste",
+    "Oil or butter"
+  ],
+  "how_to_cook": [
+    "Combine fish sauce, lime juice, Thai chili peppers, shallots, garlic, cilantro, and brown sugar in a small bowl. Mix until combined then set aside.",
+    "Trim the steak of any excess fat and season liberally with salt and pepper on all sides, making sure to rub in the seasonings.",
+    "Transfer the steak to a wire rack and roast in the oven at 375°F for 20 minutes. If you are using thinner cuts, you can skip this step.",
+    "Pan-fry in oil or butter, 1-2 minutes per side on medium-high heat, for a beautiful crust. If you skip the oven step, increase the cooking time to 3-5 minutes per side.",
+    "Serve steak and sauce on the side."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/UIK8cAi.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9142808c5a677314a86a"
+  },
+  "id": 55,
+  "dishName": "Vietnamese Lemongrass Grilled Beef Spring Rolls",
+  "description": "Vietnamese Lemongrass Grilled Beef Spring Rolls (Thịt Bò Nướng Cuốn Bánh Tráng) is a rice paper roll that consists of thinly sliced beef, quickly seared in onions and butter, and plenty of fresh vegetables and Vietnamese herbs. These beef spring rolls are typically served with a pungent fermented anchovy sauce (Mắm Nêm) or a more tamed Vietnamese fish sauce dipping sauce (Nước Chấm).",
+  "ingredients": [
+    "2 lbs beef chuck, tenderloin, ribeye, sirloin, or center round (slice thinly against the grain into bite-size pieces)",
+    "⅓ cup minced lemongrass",
+    "4 garlic cloves (peel and finely chop)",
+    "1 yellow onion (peel and cut into thin wedges)",
+    "¼ cup oyster sauce",
+    "1 tablespoon regular soy sauce",
+    "¼ cup granulated sugar",
+    "2 tablespoons orange juice",
+    "1 tablespoon sesame oil",
+    "1 teaspoon red pepper flakes (optional)",
+    "1 stick butter (4 oz)",
+    "1 package large rice paper",
+    "Cucumbers (slice into long strips)",
+    "Pineapples (slice into long strips)",
+    "Leafy lettuce",
+    "Mint",
+    "Perilla",
+    "Sorrel",
+    "Vietnamese Fermented Anchovy Dipping Sauce (Mắm Nêm) (my favorite)",
+    "Vietnamese Fish Sauce Dipping Sauce (Nước Mắm Chấm)"
+  ],
+  "how_to_cook": [
+    "In a large mixing bowl, combine lemongrass, garlic, onion, oyster sauce, soy sauce, sugar, orange juice, sesame oil, and optional red pepper flakes. Add sliced beef and marinate for at least 30 minutes or overnight in the fridge for better results.",
+    "It is best to cook the beef outside using a portable butane burner and a grill plate. Heat up the griddle and melt a tablespoon of butter at a time. Add a portion of beef and quickly grill for 2-3 minutes.",
+    "Lightly wet a sheet of rice paper in a water bowl. Allow about 5 seconds for it to soften. Add grilled beef and your favorite vegetables in the middle of the wet rice paper. Tuck in the sides and roll up to seal. Dip the spring roll in your choice of dipping sauce. Grill as you go for the best results."
+  ],
+  "category": "beef",
+  "imageUrl": "https://i.imgur.com/PBVCQd7.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9145808c5a677314a86b"
+  },
+  "id": 57,
+  "dishName": "Vietnamese Instant Pot Beef Noodle Soup Recipe (Pho Bo)",
+  "description": "A quick and easy way to make pho. This Instant Pot pressure cooker pho recipe eliminates a lot of the traditional steps without compromising flavor and authenticity. Enjoy a delicious bowl of pho from scratch in under one hour.",
+  "ingredients": [
+    "6 lbs beef neck bones or your choice of beef bones",
+    "4 oz ginger (no need to peel; slice into coins)",
+    "2 yellow onions (peel outer layer; leave whole)",
+    "1 packet pho spice tea bag",
+    "50 grams rock sugar",
+    "1 tablespoon sea salt",
+    "4 tablespoons fish sauce",
+    "1 tablespoon chicken bouillon powder (optional)",
+    "1 teaspoon MSG (optional)",
+    "Rare eye of round beef steak (12 oz)",
+    "Cooked beef meatballs (1 11-oz package)",
+    "2 lbs rice noodles",
+    "Cilantro",
+    "Green onions",
+    "Yellow onion",
+    "Red chili peppers/jalapenos",
+    "Lemons/limes",
+    "Thai Basil",
+    "Culantro",
+    "Hoisin sauce",
+    "Sriracha chili sauce"
+  ],
+  "how_to_cook": [
+    "Clean beef neck bones with a tablespoon of sea salt. If using eye of round beef steak, do the same thing with a teaspoon of salt. Rinse bones/steak and drain dry. Add cleaned bones, ginger, yellow onions and one pho spice packet to the Instant Pot. If using eye of round steak, partially freeze then thinly slice and set aside as meat topping.",
+    "Using an 8-Quart Instant Pot pressure cooker, fill the inner pot with water to the ⅔ max pressure cooker line. Press Pressure Cook. Change timer to 45 minutes if needed. Press Start.",
+    "While the pressure cooker is working, prep and cut vegetables. Thinly slice the green onions, cilantro and yellow onion. Cut lemon/lime into wedges and thinly slice chili peppers/jalapenos.",
+    "Once pressure cooker is done, press the quick release slowly so as to not destroy your kitchen ceiling. Using a fine-mesh skimmer spoon to remove all the impurities that float to the top. Discard ginger and onions. Remove the bones and set aside to cool. Once safe enough to handle, remove the meat from the bones and set aside as a meat topping. At this point, you can strain the entire stock through a large fine-mesh strainer for a clearer broth if desired.",
+    "Fill pressure cooker with additional water to ½ line, if needed. This will make 4 quarts total. Press Saute and change setting to High. Season stock with rock sugar, sea salt, fish sauce, bouillon powder and MSG. Bouillon powder and MSG are optional but highly recommended. Season to taste by adding a little at a time. If using pre-cooked beef meatballs, slice in half and add it directly into the simmering broth.",
+    "Cook noodles per package instructions.",
+    "To assemble: Transfer cooked noodles to a bowl. Top with neckbone meat and raw beef slices. Add hot broth, particularly over the raw beef slices, if any. Garnish bowl with sliced cilantro, green onions, and yellow onions. Serve with a platter of fresh Thai basil, culantro, chili peppers/jalapenos, and lime/lemon wedges. Have hoisin and sriracha sauce on the side for additional customization and enjoy."
+  ],
+  "category": "beef",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/9f88c3be-95b6-46c0-8817-778670ff769c/EOS+M50_5878.jpg?format=1000w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9148808c5a677314a86c"
+  },
+  "id": 59,
+  "dishName": "Crispy Salt Pepper Beef (Thịt Bò Chiên Muối Tiêu)",
+  "description": "A quick and seriously tasty beef recipe that’s commonly served in Chinese restaurants. Tender beef slices marinated with salt, pepper, and Chinese five-spice powder; coated in an egg white batter then deep-fried. The crispy beef is tossed with a bit of salt and pepper as a finishing touch and voila, dinner is on the table in less than 20 minutes.",
+  "ingredients": [
+    "1 lb beef sirloin (slice into thin strips against the grain)",
+    "¾ teaspoon sea salt (divided)",
+    "½ teaspoon ground black pepper (divided)",
+    "¼ teaspoon Chinese five-spice powder",
+    "¼ teaspoon baking soda",
+    "¼ cup cornstarch",
+    "2 egg whites",
+    "Vegetable oil for deep frying"
+  ],
+  "how_to_cook": [
+    "In a large bowl, marinate beef strips with salt (½ teaspoon), ground black pepper (¼ teaspoon), Chinese five-spice powder, and baking soda for at least 10 minutes.",
+    "In a separate bowl, beat egg whites and cornstarch until there are no longer clumps. Add egg white mixture to the marinated beef. Gently toss until evenly coated.",
+    "Deep-fry the battered beef strips in batches for 2 minutes each batch or until golden brown. Transfer to a wire rack or plate lined with paper towels to remove excess oil.",
+    "Add cooked beef to a large mixing bowl and toss evenly with remaining salt and pepper. Serve immediately for best results."
+  ],
+  "category": "beef",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1589172469091-NJKHMFFMS0TP42BXA018/salt+pepper+beef2wm.jpg?format=750w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a914b808c5a677314a86d"
+  },
+  "id": 61,
+  "dishName": "Simple Beef & Broccoli Stir Fry (Bo Xao Bong Cai Xanh)",
+  "description": "A quick stir fry with thinly sliced beef sirloin, broccoli florets and carrots, coated in a thick sweet and savory sauce. Enjoy with steamed rice for a complete meal that will sure to satisfy any hunger on a busy night.",
+  "ingredients": [
+    "1½ lbs beef sirloin",
+    "3 tablespoons all-purpose soy sauce",
+    "1 tablespoon oyster sauce",
+    "1 tablespoon granulated cane sugar",
+    "1 teaspoon sesame oil",
+    "½ teaspoon ground black or white pepper",
+    "1 cup chicken stock or water",
+    "1 tablespoon all-purpose soy sauce",
+    "1 tablespoon granulated cane sugar",
+    "1 tablespoon Shaoxing cooking wine (optional)",
+    "1 tablespoon cornstarch",
+    "½ cup water",
+    "2 lbs broccoli florets",
+    "1 small carrot (optional for color; peel and slice thinly at a diagonal)",
+    "2 tablespoons vegetable oil",
+    "3 garlic cloves (mince finely)"
+  ],
+  "how_to_cook": [
+    "Slice beef against the grain into ¼\" thickness. Transfer to a large bowl and season with soy sauce, oyster sauce, sugar, sesame oil, and ground black/white pepper. Set aside.",
+    "In a small bowl, combine chicken stock/water, soy sauce, sugar, cooking wine and cornstarch. Mix with a fork until cornstarch is completely dissolved. Set aside.",
+    "In a large wok or skillet with a lid, add water, broccoli and carrots. Heat on medium-high and cover with a lid to allow the vegetables to steam until fork tender (about 4 minutes). Remove vegetables and set aside.",
+    "Wipe any remaining moisture in the wok. Add vegetable oil and heat on medium high. Add garlic and marinated beef. Pan fry until beef is cooked all the way through (about 4 minutes).",
+    "Add stir-fry sauce and simmer on low until thicken. Add steamed broccoli and carrots. Toss until combined. Serve with steamed rice for a complete meal."
+  ],
+  "category": "beef",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1567727196194-ODBQTF60QLY9WV6C8J7F/005-1.jpg?format=750w",
+  "isPopular": true
+},
+{
+  "_id": {
+    "$oid": "662a9152808c5a677314a86e"
+  },
+  "id": 65,
+  "dishName": "Vietnamese Shaking Beef Recipe (Bò Lúc Lắc)",
+  "description": "Vietnamese Shaking Beef is seared cubed steak sauteed with garlic, onion, butter, and a soy marinade. The beef goes onto a bed of lettuce, watercress, tomato and/or cucumbers, and served with an optional lime-salt-and-pepper dipping sauce.",
+  "ingredients": [
+    "2 lbs sirloin (trim off excess fat and cut into 1-inch cubes)",
+    "1 teaspoon granulated sugar",
+    "1 teaspoon salt",
+    "½ teaspoon black pepper",
+    "2 garlic cloves (mince)",
+    "2 tablespoons vegetable oil",
+    "2 tablespoons unsalted butter",
+    "1 small red, white or yellow onion (slice into thin wedges)",
+    "1 garlic clove (mince)",
+    "2 tablespoons soy sauce",
+    "1 teaspoon fish sauce",
+    "2 tablespoons honey",
+    "2 tablespoons rice vinegar",
+    "2 teaspoons granulated sugar",
+    "4 teaspoons lime juice (about half a lemon/lime)",
+    "1 teaspoon salt",
+    "½ teaspoon black pepper",
+    "Lettuce",
+    "Watercress",
+    "Tomatoes",
+    "Cucumbers"
+  ],
+  "how_to_cook": [
+    "In a large bowl, marinate beef with sugar, salt, black pepper, and minced garlic for at least 10 minutes. In a small bowl, make the sauce by mixing together soy sauce, fish sauce, honey, rice vinegar, and sugar. Add sugar a little at a time to taste. Leave out the aromatics (onions and garlic) at this point.",
+    "In a large skillet or wok, heat up vegetable oil on high. Add the beef cubes and sear on all sides by shaking the beef until medium rare. It's highly recommended to do this in batches to get a nice sear without overcooking. No more than 3 minutes total. Transfer beef to a plate and set aside.",
+    "To the now empty skillet, add butter. Once melted, add onions and garlic. Sautee until fragrant (about 1-2 minutes). Add sauce mixture and seared beef cubes. Toss until nicely coated. Transfer beef and sauce onto a bed of lettuce, tomatoes, and/or cucumbers. Serve shaking beef with rice, and optional dipping sauce by mixing together lime juice, salt, and pepper."
+  ],
+  "category": "beef",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1542393492073-VF8ZG3Q9NS31YSEHBTTV/shaking-beef-bo-luc-lac-2.jpg?format=1000w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a915b808c5a677314a86f"
+  },
+  "id": 70,
+  "dishName": "Vietnam Vermicelli Noodles with Grilled Pork Patties",
+  "description": "My favorite Vietnamese dish of all time, this refreshing and light dish is made with rice noodles, charcoal-grilled pork patties, fresh vegetables and Vietnamese herbs. It's served with a sweet chili sauce and pickled vegetables to bring all the wonderful flavors of Vietnam together.",
+  "ingredients": [
+    "1½ lbs fatty ground pork (at least 20% fat)",
+    "2 tablespoons fish sauce",
+    "2 tablespoons oyster sauce",
+    "3 tablespoons brown sugar",
+    "½ teaspoon ground black pepper",
+    "1 tablespoon roasted rice powder",
+    "½ teaspoon MSG (optional)",
+    "¼ cup minced lemongrass",
+    "4 fresh garlic cloves (finely minced)",
+    "1 small shallot (finely minced)",
+    "2 teaspoons vegetable oil (for coating hands to prevent sticking)",
+    "Lettuce",
+    "Cucumber",
+    "Vietnamese herbs",
+    "14 oz dried rice vermicelli noodles (Jiang Xi brand)",
+    "2 cups thinly sliced unripe green papaya",
+    "2 teaspoons fine sea salt",
+    "1 tablespoon granulated white sugar",
+    "2 tablespoons white vinegar",
+    "1 cup hot water",
+    "¾ cup granulated sugar",
+    "¾ cup fish sauce",
+    "3 tablespoons lime juice (1 fresh lime)",
+    "2 cups coconut soda (Coco Rico)",
+    "6 garlic cloves (finely minced)",
+    "2 Thai chili peppers (thinly sliced)"
+  ],
+  "how_to_cook": [
+    "Season the pork. In a large mixing bowl, combine ground pork, fish sauce, oyster sauce, brown sugar, ground black pepper, roasted rice powder, MSG, lemongrass, garlic, and shallots.",
+    "Make patties and grill. To prevent the ground pork mixture from sticking to your hands, oil them with vegetable oil. Roll the mixture into 32 small patties. Grill the patties over charcoal fire for a more authentic taste, about 8 minutes per side or until lightly charred. You can also pan-fry the patties on high heat on the stovetop or air-fry them at 350°F, about 5 minutes per side.",
+    "Make the quick pickled papaya. In a medium bowl, combine sliced papaya and salt. Let it sit for 30 minutes. Rinse the salted papaya under cold running water and squeeze out excess water. Drain. Mix with water sugar and vinegar. Set aside.",
+    "Make the dipping sauce/broth. In a large bowl, mix together water and sugar until sugar is completely dissolved. Add fish sauce, lime juice, coconut soda, garlic, and chili peppers. Adjust to taste if needed.",
+    "Cook the noodles per package instructions.",
+    "Assemble for each serving. In a small bowl, add pork patties, pickled papaya and cover with dipping sauce/broth. Serve with rice noodles and a platter of vegetables and herbs on the side.",
+    "To enjoy, tear lettuce leaves and your favorite herbs into the bowl. Add a bit of noodles and swish to coat with the sauce. Enjoy with the pork patties, pickled papaya, and sauce. Repeat for each bite."
+  ],
+  "category": "Noodles",
+  "imageUrl": "https://i.imgur.com/nySJyuL.jpg",
+  "isPopular": true
+},
+{
+  "_id": {
+    "$oid": "662a915c808c5a677314a870"
+  },
+  "id": 71,
+  "dishName": "Vietnamese Noodles with Pork and Shrimp (Mì Quảng)",
+  "description": "A popular noodle dish from Quang Nam Province in central Vietnam and a must-try if you ever visit the neighboring city of Da Nang. This noodle soup is made with turmeric rice noodles, served in a small amount but intensely flavored broth with a medley of fresh herbs and vegetables.",
+  "ingredients": [
+    "3 lbs pork bones (neckbones or leg/marrow bones)",
+    "1 lb pork belly",
+    "1 lb large whole shrimp with heads",
+    "2 quarts water",
+    "1 tablespoon sea salt (divided)",
+    "1 tablespoon granulated sugar (divided)",
+    "1 tablespoon fish sauce (divided)",
+    "1 tablespoon paprika (divided, little heat, mainly for color)",
+    "1 tablespoon turmeric powder (divided)",
+    "3 tablespoons vegetable oil (divided)",
+    "1 yellow onion (peeled and quartered)",
+    "2 large shallot (peeled and finely chopped)",
+    "6 cloves garlic (peeled and finely chopped)",
+    "2 10.5-oz bags of Quang Nam yellow rice noodles",
+    "Fried shallots",
+    "Green onions (sliced thin)",
+    "Cilantro (sliced thin)",
+    "Yellow onion (sliced thin)",
+    "Toasted peanuts",
+    "Bean sprouts",
+    "Green or red cabbage",
+    "Lettuce",
+    "Sesame rice crackers",
+    "Lemons or limes"
+  ],
+  "how_to_cook": [
+    "Optional: If the pork bones, pork belly and shrimp have a lingering foul smell, place them into a large mixing bowl and scrub them down with 2 tablespoons coarse salt then rinse thoroughly under cold running water. Drain dry.",
+    "Slice the pork belly into long strips. Then slice it into thin pieces. Transfer to a bowl and marinate with a bit of salt, sugar, fish sauce, paprika and turmeric. Set aside.",
+    "Detach the shrimp heads from the bodies. Set shrimp heads aside to make the broth later. Shell the shrimp if preferred and devein.",
+    "Transfer the shrimp to a bowl and marinate with a bit of salt, sugar, fish sauce, paprika and turmeric. Set aside.",
+    "To the bottom of a large pot, heat a tablespoon oil on medium-high. Add shrimp heads and pan fry for 5 minutes. Using the back of a ladle, smash the shrimp heads to release its head fat, which will naturally color the broth a beautiful red/orange. Add pork bones, yellow onion, and 2 quarts of water and bring the pot to a boil. Reduce the heat to low, leave the pot uncovered, and let it simmer for 45 minutes. Once done, remove all the solids and discard.",
+    "Heat 1 tablespoon of oil in a large skillet. Add half the shallots and garlic, and pan-fry until fragrant (20 seconds). Add the marinated pork belly slices, and cook for 5 minutes, or until the outside is caramelized. Transfer the pork belly to the stock pot and continue to cook the stock for an additional 15 minutes. Season broth with remaining salt, sugar, fish sauce, paprika and turmeric. Adjust to taste. If you find the broth a little underwhelming, add a bit of MSG or chicken bouillon powder (wink wink).",
+    "Return to the empty skillet and heat the remaining tablespoon of oil. Add remaining shallots and garlic and pan-fry until fragrant (about 20 seconds). Add the marinated shrimp and cook for about three minutes or until they are no longer translucent. Once cooked, set the shrimp aside.",
+    "Cook the noodles per packaged instructions. Prep the vegetables.",
+    "To make the rice crackers, lightly wet them with water. You can use a water spritzer on both sides or dab them with a wet paper towel. Ensure that the microwave plate is clean and place the crackers directly on it. Heat them for 30 seconds, flip them over, and heat for another 30 seconds until they puff up evenly. Break the crackers into small pieces and set aside.",
+    "To assemble, add your choice of vegetables to the bottom of the bowl. Layer the cooked noodles on top of the bed of vegetables. Pour about a cup of broth over the noodles, making sure to include slices of pork belly.",
+    "Add shrimp, rice crackers, peanuts, and fried shallots on top of the noodles.",
+    "Garnish with thinly sliced green onions, cilantro, and yellow onions. Serve with lime or lemon wedges on the side and enjoy."
+  ],
+  "category": "Noodles",
+  "imageUrl": "https://i.ibb.co/5r9xfVk/Io-Kx2-DRvj-EOr-M4-EHey1-WTGDf-Iag22023-04-28-EOS-M56722-jpg.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a915d808c5a677314a871"
+  },
+  "id": 72,
+  "dishName": "Vietnamese Chicken Soup with Glass Noodles (Miến Gà)",
+  "description": "A comforting and popular noodle soup that is easy to make and packed with flavor. This noodle soup consists of silky and translucent thin mung bean noodles in a flavorful and clear chicken broth. Unlike other Vietnamese noodle soups, this soup comes together quickly and is perfect for a cozy and light meal at home.",
+  "ingredients": [
+    "3 lbs whole chicken",
+    "2 quarts water",
+    "8 shallots or 1 large yellow onion",
+    "1 tablespoon coriander seeds",
+    "2-inch fresh ginger",
+    "¼ teaspoon turmeric powder",
+    "2 teaspoons salt",
+    "1 teaspoon chicken bouillon powder",
+    "1 teaspoon MSG",
+    "20 grams rock sugar",
+    "1 teaspoon fish sauce",
+    "10 oz dried bean thread mung bean noodles",
+    "Fresh cilantro",
+    "Fried shallots",
+    "Ground black pepper",
+    "Lime wedges",
+    "Chili peppers"
+  ],
+  "how_to_cook": [
+    "Preheat the toaster oven to broil at 450°F. Peel the outer layer of the shallots or onion. Slice the ginger into thick coins or small chunks (peeling optional). Place shallots/onion and ginger on a baking sheet lined with parchment paper. Place the tray on the highest rack in the toaster oven and broil for 15 minutes. Add the coriander seeds to the tray, if using. Continue to broil for another 3-5 minutes or until the ingredients are aromatic.",
+    "In a large pot with a lid, add chicken, ginger, shallots, coriander seeds, and all the seasonings. Cook for 30 minutes on a medium-low simmer with a lid slightly off-center to keep from boiling over. Whole chicken will float so make sure to flip it halfway through cooking.",
+    "Transfer the chicken to an ice bath to cool down. This ice bath step is optional for skin-on whole chicken to gelatinize and firm up the skin. Otherwise, remove the chicken and allow it to cool down on its own. Once cool enough to handle, chop the chicken into bite-sized pieces (for those who want to keep the bones) or hand shred the chicken meat (for those who want meat only). Set chicken aside. Remove the aromatics from the broth and discard. Adjust seasonings in the broth if needed.",
+    "Fill a medium pot with water and bring it to a boil. Drop in the glass noodles and cook for 2 minutes or until the noodles become clear. Drain and rinse well. Set aside.",
+    "When ready to serve, add cooked glass noodles to a bowl. Ladle the hot broth over the noodles. Add chicken pieces. Garnish with freshly sliced cilantro, fried shallots, ground black pepper, a squeeze of lime, and chili peppers."
+  ],
+  "category": "Noodles",
+  "imageUrl": "https://i.imgur.com/rouLCLZ.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a915d808c5a677314a872"
+  },
+  "id": 73,
+  "dishName": "Vietnamese Pork and Seafood Noodle Soup (Hủ Tiếu Mì)",
+  "description": "This beloved noodle soup features a clear, savory broth made by simmering pork and/or chicken bones, and dried shrimp and squid to add a depth of umami seafood flavor. It can be served with three types of noodles, customized with a wide range of toppings, and served in two different ways.",
+  "ingredients": [
+    "3 lb pork neckbones",
+    "3 liters water",
+    "¼ cup dried shrimp",
+    "1 small dried squid",
+    "1 small daikon (peeling optional)",
+    "1 yellow onion (peeling optional)",
+    "1 tablespoon plus 1 teaspoon sea salt",
+    "1 tablespoon chicken bouillon powder",
+    "1 tablespoon plus 2 teaspoons granulated white sugar",
+    "1 teaspoon fish sauce",
+    "Chinese BBQ Pork",
+    "Boiled whole shrimp",
+    "Cooked fish balls",
+    "Cooked squid",
+    "Cooked pork internal organs like kidneys and liver",
+    "Hard-boiled quail eggs",
+    "Cooked ground pork",
+    "1 lb dried noodles (wheat/egg or rice noodles)",
+    "1 bunch garlic chives (cut into 2-inch segments)",
+    "1 package bean sprouts",
+    "Pickled jalapenos",
+    "Fried pork fat",
+    "Fried shallots",
+    "Green onions",
+    "Black pepper",
+    "¼ cup hoisin sauce",
+    "¼ cup soy sauce",
+    "2 tablespoon oyster sauce",
+    "2 tablespoons granulated cane sugar",
+    "1 cup water or stock (room temperature)",
+    "2 teaspoons tapioca starch",
+    "2 tablespoons vegetable oil",
+    "1 large shallot (peel and mince)",
+    "2 garlic cloves (peel and mince)"
+  ],
+  "how_to_cook": [
+    "Blanch the pork bones. This will keep the broth clear. To a large stock pot, add pork bones. Fill the pot with water to cover the bones then bring it to a boil. Boil the bones for about 8 minutes or until foam floats to the top. Place a colander inside the sink. Pour the content of the pot into a colander and rinse the bones with cold water. If you are going to reuse the pot for stock, make sure to clean the pot thoroughly before making broth.",
+    "Place the yellow onions, dried shrimp, and dried squid on a baking tray and roast them in the toaster oven at 400°F for 20 minutes or until aromatic. Cut the daikons into 2-inch chunks.",
+    "In a stock pot, add blanched bones, dried shrimp, dried squid, yellow onion, and daikon and water. Simmer on low for 2 hours, covered. Occasionally skim the surface of the stock to keep it clear, if needed.",
+    "Remove all the solids from the broth and discard but keep the pork neck bones as a meaty topping. Season the stock to taste with salt, bouillon powder, sugar, and fish sauce.",
+    "Wash and prepare your desired vegetables. Cook the noodles per the package instructions. Prepare any other protein toppings.",
+    "To assemble, add cooked noodles to a bowl. Add your meaty toppings. Add your vegetables. Ladle in hot broth and garnish with pickled jalapenos, fried pork fat, fried shallots, green onions, and freshly ground black pepper.",
+    "Optional: If you want to make the dry version, mix together hoisin sauce, soy sauce, oyster sauce, sugar, water/stock, and tapioca starch until combined in a small bowl. In a small saucepan, heat up vegetable oil on medium-high, then add shallot and garlic. Pan fry until fragrant (20 seconds). Add mixture and cook until thicken (about 2 minutes). To serve, instead of ladling in hot broth over the bowl of noodles, add a dollop of the sauce mixture, and serve the soup on the side."
+  ],
+  "category": "Noodles",
+  "imageUrl": "https://i.imgur.com/JxJEmFN.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a915e808c5a677314a873"
+  },
+  "id": 74,
+  "dishName": "Vietnamese Crab and Tomato Noodle Soup (Bun Rieu)",
+  "description": "A delicious and authentic Bún Riêu recipe, all from scratch, with added pork hocks, pork blood, and crab/shrimp meatballs. In this recipe, we are skipping the jarred or canned spiced crab and making it all with fresh crab and shrimp.",
+  "ingredients": [
+    "2 lbs pork hocks (cut into bite-size pieces)",
+    "10 large shrimp/prawns with heads",
+    "3 tablespoons vegetable oil (divided)",
+    "2-inch ginger (leave unpeeled; slice into thick coins)",
+    "4 large shallots (peel and slice into thick wedges)",
+    "5 garlic cloves (peel and slice)",
+    "3-¾ quarts water",
+    "1 cup fresh crab meat",
+    "3 whole eggs (beaten)",
+    "4 large ripe tomatoes (about 1-½ lbs, cut into large wedges)",
+    "1 tablespoon plus ¼ teaspoon sea salt",
+    "¼ teaspoon ground black pepper",
+    "1 tablespoon granulated sugar",
+    "1 tablespoon fish sauce",
+    "½ tablespoon MSG (optional)",
+    "1 tablespoon fermented shrimp sauce (mắm ruốc)",
+    "6 oz fried tofu cubes",
+    "2 packages 14 oz dried rice noodles (cook per package instructions)",
+    "Sliced green onions",
+    "Sliced yellow onions",
+    "Thinly chopped cilantro",
+    "Shredded water spinach (Rau Muống/Ong Choy)",
+    "Thinly sliced green/purple cabbage",
+    "Other Vietnamese herbs (perilla, sorrell, mint)",
+    "Lemon/lime wedges",
+    "Cooked pork blood (optional)"
+  ],
+  "how_to_cook": [
+    "Clean the pork: Fill a 5-quart stock pot half way with water and bring the pot to a boil. Add ginger slices and a third of the sliced shallots. Let the pot simmer for 5 minutes until shallots and ginger release their aroma. Add pork hocks. Blanch for 5 minutes or until impurities (foam) float to the top. Drain the content of the pot into a colander in a sink and rinse well with water. Wash the stock pot thoroughly to reuse.",
+    "Prep the shrimp/prawn: Separate the heads from the body with a gentle twist to keep the head fat intact. Set the shrimp heads aside. Peel and devein the shrimp, then finely chop with a food processor until it turns into a paste. If you don't have a food processor, you can finely chop with a knife or place it in a Ziploc bag and smash it with something heavy, such as a rolling pin.",
+    "To the bottom of the stock pot from earlier, heat vegetable oil (2 tablespoons) on medium-high. Add half of the remaining shallots and half of the garlic. Pan fry until aromatic (about 15 seconds). Add shrimp heads and toss them with the aromatics. Using a wooden spoon or any other cooking utensil, smash the shrimp heads so that they release the head fat. The head fat will give the broth a beautiful red color, as well as add flavor to the broth. Add water (3-¾ quarts) to the pot and pork hocks. Cook on a low simmer for one hour or until pork hocks can be easily pierced with a chopstick.",
+    "Make the crab and shrimp meatballs (riêu). Mix fresh crab meat, shrimp paste, and beaten eggs together. Season with ¼ teaspoon sea salt and ¼ teaspoon ground black pepper. Crank up the heat on the stockpot to a rolling boil and gently slide the mixture across the top of the stock. The high heat will quickly cook up the mixture and keep it together in one large sheet. Turn down the heat and continue to cook the stock pot on medium-low.",
+    "Prepare the tomatoes. In a medium-sized skillet, heat up the remaining vegetable oil (1 tablespoon) on medium-high. Add the last of the garlic and shallots. Pan fry until fragrant (about 15 seconds). Add tomatoes and pan fry until it starts to soften. Scoot the crab and shrimp meatballs to one side of the stock pot and to the other side, carefully pour in the tomato mixture. Add fried tofu to the stockpot as well. Let the stock continue to cook on medium-low heat for about 5 minutes for the flavors to meld.",
+    "Season stock to taste with salt, sugar, fish sauce, MSG (optional), and fermented shrimp paste. Break up the shrimp paste with a bit of stock water before adding it to the pot.",
+    "Assemble: To a bowl, add a handful of cooked rice noodles, pork hocks, a few pieces of the crab mixture, fried tofu, and pork blood. Ladle in hot broth. Garnish with a sprinkle of green onions, cilantro, and/or a few slices of yellow onions. Serve with your favorite vegetables, lemons or limes wedges, and additional shrimp paste on the side."
+  ],
+  "category": "Noodles",
+  "imageUrl": "https://i.imgur.com/0osM5Sr.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9161808c5a677314a875"
+  },
+  "id": 77,
+  "dishName": "Vietnamese Chicken Noodle Soup (Phở Gà)",
+  "description": "Phở Gà (Vietnamese Chicken Noodle Soup) is the quick poultry alternative to its more well-known cousin, Phở Bò (Vietnamese Beef Noodle Soup). Phở Gà is lighter and simpler than Phở Bò. It's great for a cold winter day or when you want noodle soup without the hassle.",
+  "ingredients": [
+    "One whole chicken (about 4 lbs)",
+    "4 liters water",
+    "3-inch piece ginger",
+    "2 yellow onions or 8 large shallots",
+    "2 tablespoons dried coriander seeds",
+    "2 tablespoons sea salt",
+    "2 tablespoons fish sauce",
+    "35 grams rock sugar",
+    "2 tablespoons chicken bouillon powder (optional)",
+    "1 teaspoon MSG (optional)",
+    "2 packages 14-oz rice noodles (cook per package instructions)",
+    "¼ cup thinly sliced yellow onion",
+    "¼ cup thinly sliced green onions",
+    "¼ cup thinly sliced cilantro",
+    "Fried shallots",
+    "Ground black pepper",
+    "2 limes or lemons (cut into wedges)",
+    "Red chili peppers or jalapenos (thinly sliced)"
+  ],
+  "how_to_cook": [
+    "Prep the aromatics. Roast whole unpeeled ginger and shallots in the oven at 400°F for 15 minutes. Set aside the shallots. Slice the ginger into thick coins then set aside. Dry toast the coriander seeds in a small frying pan for one minute or until fragrant. Add toasted coriander seeds into a spice bag or wrap in cheesecloth then set aside. If you have neither, no worries. You can add toasted coriander directly to the stockpot that you can strain out.",
+    "Bring a large stockpot with 4 liters of water to a boil (make sure it will fit the chicken without overflowing). Add chicken, ginger, shallots, and coriander. Cook for 30 minutes on a low simmer.",
+    "Check for doneness. Pierce chicken with a chopstick in between the joint of the breast and leg. If water runs clear, chicken is done. Transfer chicken to an ice bath. The iced bath will gelatinize and firm up the skin. When cool enough to handle, slice chicken into thin strips. Return all bones back to the stockpot. Continue to cook for another 30 minutes on a low simmer.",
+    "Remove all solids from the stock pot and discard. Season stock with salt, fish sauce, rock sugar, chicken bouillon powder, and MSG, a little at a time to your liking. Like all noodle soups, you want the flavors to be strong and bold because once noodles are added, the flavor will mellow out quite a bit.",
+    "To serve, add a handful of cooked rice noodles to a bowl. Add chicken. Ladle in broth and top with a bit of white/yellow onions, green onions, cilantro, fried shallots, and a sprinkle of black pepper. Serve with lime wedges and chili peppers/jalapenos on the side."
+  ],
+  "category": "Noodles",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1563423330751-PDGAIDU4C1EZF5L0WOTA/pho+ga1.jpg?format=1000w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a916f808c5a677314a876"
+  },
+  "id": 84,
+  "dishName": "Vietnamese Thick Noodle Soup (Banh Canh)",
+  "description": "Vietnamese thick noodle soup is the most simplest and purest of all the Vietnamese noodle soups. In its simplest form, it's thick noodles in a rich and savory pork broth. The only tricky thing with Banh Canh is keeping the darn slippery noodles on the spoon!",
+  "ingredients": [
+    "3 lb pork bones (neck bones and/or spareribs)",
+    "3 liters water",
+    "1 large yellow onion or 4 shallots (leave whole)",
+    "1 tablespoon chicken or mushroom bouillon powder",
+    "1 tablespoon granulated sugar",
+    "1 tablespoon sea salt",
+    "1 teaspoon fish sauce",
+    "1 tablespoon annatto oil (optional)",
+    "1.5-2 lbs Banh Canh or Udon Noodles",
+    "1/2 stick Vietnamese Ham (Cha Lua or Gio Lua)",
+    "1/2 stick fried fish cakes",
+    "2 scallions and/or a small bunch of cilantro (thinly sliced)",
+    "Ground black pepper"
+  ],
+  "how_to_cook": [
+    "Bake the onion or shallots in the oven at 400°F for about 15 minutes or when they become aromatic. Scrap off any charred areas to prevent browning the broth then set aside.",
+    "Blanch the pork bones to get rid of the impurities (optional): Add the pork bones to a large stockpot and fill with water to cover by 1 inch. Boil the bones for 10 minutes or when you see a lot of foam at the top. Drain the content of the pot into a colander and rinse the bones under cold running water. This helps clean the bones, keeping the stock clear. It also helps rid of any lingering foul pork smell.",
+    "Add water (3 liters) to a stockpot and bring to a boil (if you are reusing the same stockpot that was used to blanch the bones, make sure to clean the pot thoroughly before adding water for the stock). Add the blanched bones and onions/shallots. Reduce the heat to your lowest setting and simmer for two hours uncovered. Remove the onions and pork bones from the broth and discard. Sometimes, I leave the bones if they still have a good amount of meat on them.",
+    "Season the stock. Add chicken or mushroom bouillon powder, sugar, salt, and fish sauce. To color the broth red/orange which is optional, add annatto oil.",
+    "Cook the noodles per packaged instructions. If the noodles are sticking together, add 1/2 teaspoon vegetable or sesame seed oil and toss the noodles lightly together.",
+    "To assemble, add a handful of noodles into a bowl. Add a few slices of Vietnamese Ham and fried fish cakes. Ladle in hot broth. Garnish with scallions/cilantro and a sprinkle of ground black pepper."
+  ],
+  "category": "Noodles",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1453873042236-8B0HJ403NLIOV5QDVRAN/banh+canh+vietnamese+thick+noodle+soup+recipe?format=1000w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9178808c5a677314a877"
+  },
+  "id": 89,
+  "dishName": "Vietnamese Pork and Crab Noodle Soup (Bún Riêu Cua)",
+  "description": "A heartier and more economical version of Bún Riêu with a pork-based broth and a jar of spiced crab mix. This recipe is a great Western shortcut to enjoy one of Vietnam's famous noodles soups at home.",
+  "ingredients": [
+    "3 lbs pork spare ribs",
+    "5 liters water",
+    "4 teaspoons sea salt",
+    "½ teaspoon ground black pepper",
+    "2 tablespoons chicken or mushroom bouillon powder",
+    "1 teaspoon MSG (optional)",
+    "¼ cup ketchup (annatto oil substitute for the red color and also adds sweetness)",
+    "⅓ cup shrimp paste (mắm ruốc)",
+    "1 cup dried salted shrimp (soak in hot water to soften for 10 minutes)",
+    "14-oz can minced crab in spices",
+    "2 tablespoons vegetable oil",
+    "1 tablespoon minced garlic",
+    "1 tablespoon minced shallot",
+    "4 beaten eggs",
+    "5 large ripe tomatoes (cut into wedges)",
+    "2 tablespoons vegetable oil",
+    "1 tablespoon minced garlic",
+    "1 tablespoon minced shallot",
+    "2 lbs medium-size dried rice noodles (cook per package instructions)",
+    "1 lb fried tofu cubes",
+    "Water spinach stems (split stems into thin strips)",
+    "Lettuce or cabbage (julienne into thin strips)",
+    "Bean sprouts",
+    "Limes/lemons (cut into wedges)",
+    "Green onions (slice thinly)"
+  ],
+  "how_to_cook": [
+    "Clean the bones (optional but recommended): In a large stock pot, add pork bones and water to cover. Cook for 5 minutes or until impurities (foam) float to the top. Place a colander in the sink, drain bones into a colander and rinse thoroughly with cold water.",
+    "Clean the stock pot thoroughly and return it to the stove. Add water (5 liters) and parboiled bones. Simmer on medium-low heat for one hour.",
+    "Finely chop presoaked dried salted shrimp in a food processor and set aside.",
+    "Heat oil in a skillet. Add shallots and garlic. Saute until fragrant (about 20 seconds). Add jarred or canned spiced crab and dried shrimp. Mix until combined then transfer skillet off the heat to prevent cooking the eggs. Add beaten eggs and mix until combined.",
+    "Turn up the heat on the stock pot to a rolling boil. Slowly pour the crab mixture into the stock pot. We want it to cook quickly so that it stays in one large piece. The mixture will float to the top. Turn the heat down to a low simmer and cook for 10 minutes.",
+    "In the now empty skillet, heat more vegetable oil and saute garlic and shallots. Once fragrant and lightly brown, add tomatoes. Stir gently and cook for 2 minutes or until tomatoes have release some of its juices.",
+    "Push the crab mixture in the stock pot to the side and slowly add the tomato mixture, making sure to not break up the crab mixture.",
+    "Now that you have everything in the pot and the flavors had a chance to meld together, season to taste with salt (4 teaspoons), chicken/mushroom bouillon powder (2 tablespoons) and MSG (1 teaspoon).",
+    "For the ketchup and shrimp paste, add it to a small bowl and ladle in the hot broth from the stockpot to liquefy it first before adding it to the stock pot.",
+    "Add fried tofu to the stock pot.",
+    "Add a handful of cooked rice noodles to a bowl. Ladle in hot soup from the stock pot. Add pork spare ribs, a piece of the crab mixture and a few pieces of fried tofu.",
+    "Add in your favorite veggies, a squeeze of lime, and a sprinkle of green onions.",
+    "Serve with additional shrimp paste on the side."
+  ],
+  "category": "Noodles",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1527485587348-MLMZ49RXNS4APVG18KAW/Vietnamese+Pork+%26+Seafood+Noodle+Soup+Bun+Rieu+Vicky+Pham+recipe?format=750w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9179808c5a677314a878"
+  },
+  "id": 90,
+  "dishName": "Vietnamese Savory Square Cake (Bánh Chưng)",
+  "description": "Get ready for Lunar New Year with this easy-to-follow Bánh Chưng recipe! This recipe includes both stovetop and pressure cooker options, plus a step-by-step wrapping tutorials to make preparation a breeze. This recipe makes four cakes with each cake yielding about 4 servings.",
+  "ingredients": [
+    "1½ lbs pork belly (skin-on preferred)",
+    "½ teaspoon sea salt",
+    "½ teaspoon granulated sugar",
+    "½ teaspoon fish sauce",
+    "¼ teaspoon ground black pepper",
+    "2 tablespoons shallots (finely minced)",
+    "½ teaspoon chicken bouillon powder (optional but recommended)",
+    "5 cups sweet rice (also known as glutinous rice)",
+    "2 teaspoons sea salt",
+    "2 cups dried split mung beans",
+    "1½ teaspoons sea salt",
+    "1 package (16 oz) frozen banana leaves",
+    "4 strings (90 inches in length each)",
+    "Square or similar size shape mold with a 2-inch height"
+  ],
+  "how_to_cook": [
+    "Soak rice and beans: Rinse the dried glutinous rice grains in a colander until water runs clear. Transfer to a mixing bowl and cover with water. Do the same for the dried mung beans. Drain the rice and mung beans into separate bowls and season with salt.",
+    "Marinate pork: To remove surface impurities and any unwanted odor, generously rub the pork belly with coarse salt. Rinse thoroughly under running water to remove the salt and pat the pork belly dry with paper towels. Cut into thin slices or 4 slabs that will fit the center of the mold. Season pork belly with salt, sugar, fish sauce, ground black pepper, shallots, and bouillon powder.",
+    "Prep banana leaves (next day): Thaw the banana leaves if frozen. We will be using 4 sheets of banana leaves per cake, one for each corner. This recipe makes 4 cakes so we will need 16 sheets. Keep extras in case of tearing. The width of the banana leaf is the width of the short side of the mold, plus one of its sides (2 inches). See picture in blog for reference. Cut with scissors to ensure a sharp 90° angle on all corners. Rinse sheets with hot water to clean. Wipe with paper or kitchen towels to dry and remove any white residue.",
+    "Fold banana leaves: For each leaf, refer to folding pictures in the blog to get the edge for the mold.",
+    "Filling: Divide the rice, beans, and pork belly into four. For each cake, start with a thin base of rice, making sure to go all the way to the four corners. Then add a thin layer of mung beans in the center. Do not go all the way to the edge. Add pork on top of the mung beans. Cover pork with mung beans then cover everything with rice, making sure the rice completely goes all the way to the edge. Fold the banana leaves down like you would a present.",
+    "Tying: Put the center of the string across the folds to hold them down. Flip the mold upside down. Remove the mold. Make a loose knot at the center. Turn the knot 90° to change direction and quickly flip the cake. Continue making loose knots and turning the knot 90° until the cake is evenly wrapped with three vertical strings and three horizontal strings. If wrapping fails, just wrap it as best you can with strings and cover the whole thing with foil or saran wrap. See pictures in blog for reference.",
+    "Stove-top cooking (Option 1): Boil the rice cakes in a large 8-quart stockpot on the stovetop on a medium-low simmer, covered. Make sure they are always submerged in water to ensure even cooking. Use a large ceramic bowl or plate to weigh the cakes down if needed. Stove-top cooking will take about 6 hours. Check the water level occasionally and add water as needed.",
+    "Pressure cooker (Option 2): Add the cakes into the inner pot of an 8-quart pressure cooker. Add water to the maximum fill line and pressure cook on high for one hour and 30 minutes. Once done, allow the pressure cooker to depressurize on its own (about one hour).",
+    "Once cooked, remove the rice cakes and drain dry. Press it under some weights such as a cutting board and a bag of flour on top. This helps to remove excess water and make the top and bottom completely flat. Allow the rice cakes to cool to room temperature. Remove all the strings and banana leaves. Slice into quarters with an oiled knife or thin string before serving.",
+    "Serving: Bánh Chưng can be enjoyed, as is, at room temperature. You can also pan-fry the pieces in a bit of oil for a golden crunchy crust and enjoy it warm."
+  ],
+  "category": "pork",
+  "imageUrl": "https://i.imgur.com/lH1OsmO.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a917b808c5a677314a879"
+  },
+  "id": 91,
+  "dishName": "Vietnamese Shredded Pork Skin (Bì Heo)",
+  "description": "A delicious combination of thin strands of pork skin and marinated pork meat, coated with the signature flavor and aroma of roasted rice powder. Enjoy the nutty flavor and texture of Bi Heo with broken rice dishes (com tam), noodle soups, and spring rolls.",
+  "ingredients": [
+    "1 lb pork shoulder",
+    "2 teaspoons minced shallot",
+    "2 teaspoons minced garlic",
+    "1 teaspoon chicken bouillon powder",
+    "1 teaspoon oyster sauce",
+    "2 teaspoons fish sauce",
+    "1 teaspoon light soy sauce",
+    "1 teaspoon granulated cane sugar",
+    "¼ teaspoon ground black pepper",
+    "7 oz. cooked shredded pork skin (1 bag)",
+    "1 tablespoon vegetable oil",
+    "½ cup coconut water or plain water",
+    "2 tablespoons fried garlic",
+    "3 tablespoons roasted rice powder"
+  ],
+  "how_to_cook": [
+    "Marinate Pork: In a small bowl, mix together the pork marinade (shallot, garlic, chicken bouillon powder, oyster sauce, fish sauce, light soy sauce, sugar, and ground black pepper). Adjust to taste if needed then marinate it with the pork for 15 minutes.",
+    "Prepare the Pork Skin: Add a little salt and rub it into the the pork skin. Rinse with cold water. The salt will help to remove any lingering porky smell. Rinse well and drain completely dry. Pat with paper towels to remove any excess moisture if needed. If it’s frozen, you can rinse with warm water to help it separate into individual strands, then rinse again with cold water to firm it up. Cut the pork skin with a pair of kitchen scissors to make the pork skin shorter. This will make it easier to prep and eat. Set aside.",
+    "Cook Pork: Heat oil in a large skillet over medium. Sear the marinated pork until brown on all sides, then add coconut juice or water. Cover and braise on a low simmer for about 10 minutes then uncover and continue braising until liquid has reduced into a glaze that coats the pork. When fork or chopstick can be pierced into the thickest part of the pork easily, meat is done.",
+    "Slice Pork: Once cool enough to handle, slice pork into large, thin pieces, then again across the grain for strips. Slicing it as thin as the pork skin is more aesthetic but not required. Set aside to cool completely. Let cool completely - residual heat can make the skin moisten and cause clumping later.",
+    "Toss it Together: Dust with roasted rice powder and fried garlic. Give it a good toss - and voilà, you're finished! Transfer bì heo to a serving dish and serve immediately alongside your favorite Vietnamese dishes like broken rice dishes (cơm tấm), noodle soups, or spring rolls."
+  ],
+  "category": "pork",
+  "imageUrl": "https://i.imgur.com/sFRfIde.jpg",
+  "isPopular": true
+},
+{
+  "_id": {
+    "$oid": "662a917c808c5a677314a87a"
+  },
+  "id": 92,
+  "dishName": "Crispy Roast Pork Belly with Air Fryer",
+  "description": "A super simple crispy roast pork recipe using an air fryer. No long list of ingredients. No added oil. No poking holes, no scoring, and no special salt-vinegar treatment on the skin. None of the added work, yet still perfectly puffy and crispy crackling with juicy and tender meat.",
+  "ingredients": [
+    "1-½ lbs skin-on pork belly",
+    "1 teaspoon sea salt",
+    "½ teaspoon granulated sugar",
+    "¼ teaspoon Chinese five-spice powder",
+    "⅛ teaspoon (pinch) ground white pepper"
+  ],
+  "how_to_cook": [
+    "Combine salt, sugar, Chinese five-spice powder, and ground white pepper in a bowl and rub this mixture onto the pork belly, including the skin.",
+    "Wrap the meat part of the pork belly with saran wrap or foil but keep the skin uncovered. Store in the fridge for at least 4 hours or overnight to let the skin dry out completely.",
+    "Place pork belly skin side-up in an air fryer (no foil). My typical slab of pork belly from the Asian market fits snugly into the air fryer basket. Keep in mind that it will shrink quite a bit as well. Set temperature to 375°F for 40 minutes. No need for flipping. Do check in on it to prevent burning. If it is burning, move it around, rotate, or slightly lower the temperature."
+  ],
+  "category": "pork",
+  "imageUrl": "https://i.imgur.com/0KwQySe.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9180808c5a677314a87b"
+  },
+  "id": 94,
+  "dishName": "Vietnamese/Chinese Barbecue Pork (Thit Xa Xiu/Char Siu)",
+  "description": "This is the sweet and sticky bbq pork that you see all over Chinatown. Xa Xiu or Char Siu can be used in sandwiches, noodle soups, stir-fries, steamed buns or simply serve over steamed rice. The versatility is endless. So when making this at home, make sure to double or even triple the recipe.",
+  "ingredients": [
+    "3 lbs pork shoulder/butt",
+    "3 tablespoons Red Pork Seasoning Mix",
+    "1/2 teaspoon Chinese Five Spice Powder",
+    "1/2 teaspoon ground black or white pepper",
+    "1/2 teaspoon garlic powder",
+    "1 teaspoon chicken or mushroom bouillon powder",
+    "1 tablespoon hoisin sauce",
+    "1 tablespoon oyster sauce",
+    "1 tablespoon all-purpose soy sauce",
+    "1 teaspoon sesame oil",
+    "1 tablespoon granulated sugar",
+    "1 teaspoon honey",
+    "1 teaspoon hot water"
+  ],
+  "how_to_cook": [
+    "Cut the pork into long strips about 2 inches wide. Make sure strips are uniform for evening cooking. In a small bowl, mix together red pork seasoning mix, five-spice powder, black/white pepper, garlic powder, chicken/mushroom bouillon powder, hoisin sauce, oyster sauce, soy sauce, sesame oil, and sugar until you get a smooth paste. Slather the mixture evenly on the pork strips and marinate for at least one hour or overnight in the fridge for better results.",
+    "Preheat oven to 400°F. Place the pork on a wire rack with a pan underneath to catch the drippings. Bake for 30 minutes. Flip the pork and bake for another 30 minutes.",
+    "Combine honey and hot water in a small bowl until completely dissolved. Slather the honey glaze onto the pork with a brush. Place it back into the oven and turn the heat up to 450°F. Bake for 10 minutes on each side to get a nice caramelized crust."
+  ],
+  "category": "pork",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1516580988147-7M98YLD8OCPU3BIN9XDT/Thit+Xa+Xiu+Vietnamese+BBQ+Pork+Vicky+Pham.jpg?format=1000w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9183808c5a677314a87c"
+  },
+  "id": 96,
+  "dishName": "Caramelized and Braised Pork Belly with Eggs",
+  "description": "Braised to soft gelatinous perfection with plenty of delicious broth, this sweet and savory pork belly and egg dish is childhood comfort food. Enjoy with steamed rice for the ultimate taste of Vietnamese home cooking.",
+  "ingredients": [
+    "2 lbs pork belly",
+    "⅓ cup fish sauce",
+    "½ teaspoon salt",
+    "1 teaspoon chicken or mushroom bouillon powder",
+    "1 tablespoon granulated sugar",
+    "2 garlic cloves (minced)",
+    "Half of large shallot (minced)",
+    "½ teaspoon thick soy sauce or homemade caramel cooking sauce",
+    "1 tablespoon vegetable oil",
+    "2 garlic cloves (minced)",
+    "Other half of shallot (minced)",
+    "3 cups water",
+    "1 can (12 fl oz/ 355 mL) coconut soda",
+    "8 hard-boiled eggs (peel)",
+    "Thinly sliced green onions (optional)",
+    "Ground black pepper (optional)"
+  ],
+  "how_to_cook": [
+    "Clean the pork (optional but recommended). Generously coat pork with coarse salt (about 1 tablespoon) and give it an abrasive scrubbing. Rinse pork under cold water. Transfer to a small stockpot. Add water to cover and heat on medium-high until water begins boiling (about 8 minutes). Let it boil for 2-3 minutes then turn off the heat and transfer pork to a colander to rinse and drain dry.",
+    "Slice pork into 2x2 inch cubes then transfer to a large bowl. Marinate with fish sauce, salt, bouillon powder, sugar, garlic, shallot, and thick soy sauce/caramel cooking sauce for at least 30 minutes.",
+    "Braise pork: To the bottom of a small pot, add vegetable oil and heat on medium-high. Add garlic and shallot. Sauté until fragrant and lightly brown (about 30 seconds). Add marinated pork and all its liquid. Toss with aromatics to cover. Add water and coconut soda. Simmer on medium-low without lid for one hour.",
+    "Braise eggs: Add hard-boiled eggs and continue to simmer for 30 minutes or until pork is tender and eggs have darkened in color. For smaller quail eggs, simmer for 15 minutes instead. Garnish with thinly sliced green onions and a sprinkle of freshly ground black pepper. Serve with steamed rice for a complete meal."
+  ],
+  "category": "pork",
+  "imageUrl": "https://i.imgur.com/Fh7RnEK.jpg",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a9185808c5a677314a87d"
+  },
+  "id": 98,
+  "dishName": "Vietnamese Crispy Roasted Pork Belly (Thit Heo Quay)",
+  "description": "This oven-roasted pork belly is surprisingly easy to make at home. This recipe will yield a juicy interior with a crispy crackling skin. It’s a taste of Chinatown without ever having to leave the house.",
+  "ingredients": [
+    "3 lbs pork belly",
+    "Ginger (4-inch piece, unpeeled, cut into thick coins)",
+    "2 scallions",
+    "1 large shallot (peel, slice into wedges)",
+    "1 star anise (optional)",
+    "1 teaspoon dried coriander seeds (optional)",
+    "1 clove (optional)",
+    "1 Chinese cinnamon stick (optional)",
+    "1 teaspoon Chinese five-spice powder",
+    "1 tablespoon granulated sugar",
+    "1 teaspoon sea salt",
+    "1 tablespoon chicken bouillon powder",
+    "2 teaspoons Shaoxing cooking wine",
+    "2 teaspoons white vinegar"
+  ],
+  "how_to_cook": [
+    "Bring a large pot to a boil. Add aromatics (ginger, scallions, shallots, star anise, coriander seeds, clove and cinnamon stick) and pork belly. Cook for 30 minutes on a low simmer. Remove pork belly from pot. Cut slits onto pork skin and its underside.",
+    "In a small bowl, make the marinade by mixing together five-spice powder, sugar, salt, chicken bouillon powder, cooking wine and white vinegar. Apply all over pork belly.",
+    "Preheat oven to 400°F. Place the pork skin-side down on a roasting pan. Bake for 15 minutes. Rotate and flip pork with skin facing up. Bake for another 15 minutes.",
+    "Switch to broil at 400°F for 15 minutes until skin is puffy and crispy. Rotate if necessary for even crispiness. Be careful of pork skin explosions."
+  ],
+  "category": "pork",
+  "imageUrl": "https://images.squarespace-cdn.com/content/v1/52d3fafee4b03c7eaedee15f/1557032616820-BHS0C278HE8H74CAK6FH/heo+quay+1.jpg?format=1000w",
+  "isPopular": false
+},
+{
+  "_id": {
+    "$oid": "662a91a0808c5a677314a87e"
+  },
+  "id": 101,
+  "dishName": "Vietnamese Caramelized Pork Belly and Pineapples",
+  "description": "Small chunks of pork belly and pineapples, braised in a combination of fish sauce and sugar, this dish goes wonderfully with steamed rice. The acidity and sweetness of the pineapples complement the fatty pork belly well.",
+  "ingredients": [
+    "3-lb pork belly",
+    "2 shallots (peel and mince)",
+    "4 garlic cloves (peel and mince)",
+    "4 tablespoons fish sauce",
+    "1 teaspoon ground black pepper",
+    "1/4 teaspoon thick soy sauce or 1 teaspoon homemade caramel cooking sauce",
+    "2 tablespoons granulated sugar",
+    "1 40-oz can pineapples chunks",
+    "2 green onions/scallions (slice thinly; separate whites/greens)"
+  ],
+  "how_to_cook": [
+    "Cut pork belly into small chunks so that each chunk includes a bit of skin, fat and meat. In a claypot or skillet, marinate pork with shallots, garlic, whites of green onions, fish sauce, ground pepper, thick soy sauce/homemade caramel cooking sauce, and sugar for at least 15 minutes.",
+    "Heat the claypot on medium-low to a low simmer. Add the canned pineapple juice. Braise for 45 minutes with the lid slightly ajar to prevent boiling over.",
+    "Add pineapple chunks. Cook for 10 minutes, uncovered, or until liquid reduces down into a glaze.",
+    "Garnish with remaining green onions and serve with steamed rice."
+  ],
+  "category": "pork",
+  "imageUrl": "https://i.imgur.com/p3G80BV.jpg",
+  "isPopular": false
+}]
