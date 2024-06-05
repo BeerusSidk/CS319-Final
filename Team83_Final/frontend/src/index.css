@@ -1,0 +1,110 @@
+/* HEADERS */
+
+body {
+  font-family: "Reddit Mono", monospace !important;
+  font-optical-sizing: auto !important;
+  font-size: 0.9em;
+  font-style: normal !important;
+}
+
+header {
+  background-color: bisque;
+}
+
+#header-nav {
+  padding: 10px 5px 3px 20px;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  font-size: 1.1em;
+  padding-left: 0px;
+  margin-bottom: 5px;
+}
+
+.menu:hover {
+  cursor: pointer;
+  background-color: #f0f0f0; /* Change background color on hover */
+  color:chocolate; /* Change text color on hover */
+}
+
+.mx-auto {
+  width: fit-content;
+  text-align: center;
+}
+
+/* Body */
+.light-gray {
+  background-color: #F7F4F4;
+}
+
+.single:hover {
+  cursor: pointer;
+}
+
+.form-control.success input {
+  border-color: #2ecc71;
+}
+
+.form-control .success i.fa-check-circle {
+  visibility: visible;
+  color: #2ecc71;
+}
+
+.rate {
+  float: left;
+  height: 46px;
+}
+.rate:not(:checked) > input {
+  position:absolute;
+  top:-9999px;
+}
+.rate:not(:checked) > label {
+  float:right;
+  width:1em;
+  overflow:hidden;
+  white-space:nowrap;
+  cursor:pointer;
+  font-size:30px;
+  color:#ccc;
+}
+
+.rate:not(:checked) > label:before {
+  content: '★ ';
+}
+.rate > input:checked ~ label {
+  color: #ffc700;
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+  color: #deb217;
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+  color: #c59b08;
+}
+
+#review {
+  clear: both;
+}
+
+#ratinglabel {
+  float: left;
+}
+
+#commentlabel {
+  clear: left;
+}
+
+.text-body-secondary {
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.text-body-secondary:hover {
+  color: blue; /* Change text color to blue on hover */
+  text-decoration: underline; /* Add underline on hover */
+}
